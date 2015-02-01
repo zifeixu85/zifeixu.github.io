@@ -7,17 +7,17 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
+title:            梓非徐的产品设计
+tagline:          '设计、交互、产品、用户体验'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+url:              http://zifeixu.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           '梓非徐'
+  url:            http://weibo.com/zifeixu
 
-paginate:         5
+paginate:         8
 
 # Custom vars
 version:          2.1.0
