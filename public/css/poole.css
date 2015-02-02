@@ -428,3 +428,37 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+
+
+/* Custom 扩展内容 */
+
+
+.creativecommon {
+  width: 400px;
+  padding: .5em .5em;
+  margin-top: 3em;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 85%;
+  text-align: center;
+  color: #999999;
+  background-color: #f9f9f9;
+  border-radius: 3px;
+}
+
+.footer {
+  max-width: 38rem;
+  padding-left:  1rem;
+  padding-right: 1rem;
+  margin-left:  auto;
+  margin-right: auto;
+  margin-bottom: 2em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: .875em;
+  color: #313131;
+}
+
+
+
+

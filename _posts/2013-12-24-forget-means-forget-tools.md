@@ -1,7 +1,6 @@
 ---
 layout: post                                   
-title: 得鱼忘筌 —— 从一个小故事开始            
-category: 工具                                  
+title: 得鱼忘筌 —— 从一个小故事开始                                           
 tags: 设计                                   
 keywords: 设计                       
 description:   
