@@ -1,30 +1,27 @@
 ---
 layout: page
-title: About
+title: 关于
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### 一、关于本站的搭建
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+很早就开始尝试做自己的个人主页，最初的版本只是一个很简单的html页面，后来转用Wordpress程序，但是后者太过于复杂，对于我这种非码农来说想要自定义做一些个性化的设计实在是太复杂太困难了。
 
-There are currently two themes built on Poole:
+现在的Blog是基于 Jekyll+Github+Duoshuo 搭建而成，完全免费而且很轻量化，想要做一些个性化的设计和页面也非常简单，最重要的是这里面的所有文章都是基于我最喜欢的Markdown格式。
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+学一点基础的代码，做一些简单的设计，使用最常用的文本格式，专注在输出内容和思考上面，而不是程序本身，这才是我最想要的。
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
+### 二、关于我自己
 
-Some fun facts about the setup of this project include:
+85后，却还天真的以为自己还年轻，其实生活早已扬起风帆把你拍扁在沙滩上，奈何鸡汤热血浇灌终还能站起来奋斗一小把的失足“青年”。
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+常用ID是“ *梓非徐* ”跟“ *zifeixu85* ”，既然互联网早已把我的XX扒光，那我也就不藏着掖着啦，希望不与人结怨，不被人肉和查户口。
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+### 三、真相
 
-Thanks for reading!
+我本来想说：**会说会写会思考的人，才能做好的交互设计！** 但其实我就是想找个地方唠叨一下，希望诸君莫烦，切看切珍惜！
+
+
+<br>
+> 2015.02.05 上海

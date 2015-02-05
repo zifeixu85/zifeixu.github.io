@@ -7,9 +7,9 @@ permalink:        /:title/
 relative_permalinks: true
 
 # Setup
-title:            梓非徐的产品设计
-tagline:          '设计、交互、产品、用户体验'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            梓非徐
+tagline:          '交互、视觉、产品'
+description:      '交互设计新人，交互、视觉、产品都想搀和一点儿，可啥都学不好，莫怪莫怪。'
 url:              http://zifeixu.com
 baseurl:          /
 
