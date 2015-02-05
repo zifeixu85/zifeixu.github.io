@@ -1,6 +1,6 @@
 ---
 layout: post 
-title：草间弥生——我的一个梦
+title: 草间弥生——我的一个梦
 --- 
 
 
