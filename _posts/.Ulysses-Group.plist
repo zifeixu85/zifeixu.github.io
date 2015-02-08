@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>2013-12-24-forget-means-forget-tools.md</string>
+		</array>
+		<array>
+			<string>2013-12-25-kusama-yayoi-a-dream-i-dreamed.md</string>
+		</array>
+		<array>
+			<string>2014-01-03-team-network-disk.md</string>
+		</array>
+		<array>
+			<string>2014-01-12-about-me-2013-year-end-summary.md</string>
+		</array>
+		<array>
+			<string>2014-01-12-internet-exchange-conference-shanghai-station.md</string>
+		</array>
+		<array>
+			<string>2014-04-02-google-to-remove-links-underlined-interactive-design.md</string>
+		</array>
+		<array>
+			<string>2014-07-09-about-secret-app-personal-analysis.md</string>
+		</array>
+		<array>
+			<string>2014-07-13-nozuonodienolife.md</string>
+		</array>
+		<array>
+			<string>2014-08-16-wechat-update-interaction-details.md</string>
+		</array>
+		<array>
+			<string>2014-11-30-interaction-design-reflections.md</string>
+		</array>
+	</array>
+</dict>
+</plist>
