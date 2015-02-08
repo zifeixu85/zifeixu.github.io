@@ -31,6 +31,6 @@ description: 在我小时候生活的那个小镇子，随处都可以看到人�
 > 
 > 一个没有把百酒都尝遍的人，他是不大懂得清水之味的；一个一辈子都安分守己不敢“作”的人，他从来也不曾拥有一个，真正真正丰富的人生！
 
-视频地址（请用微信扫描后手机播放）：
+视频地址：
 
-![](http://qiniu.zifeixu.com/2014-07-13-nozuonodienolife.png)
+<embed src="http://static.video.qq.com/TPout.swf?vid=b0140ntahi7&auto=0" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
