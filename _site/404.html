@@ -30,58 +30,9 @@
 </head>
 
 
-  <body class="theme-base-08 layout-reverse sidebar-overlay">
-
-    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
-     styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
-
-<!-- Toggleable sidebar -->
-<div class="sidebar" id="sidebar">
-  <div class="sidebar-item">
-    <p>交互设计新人，交互、视觉、产品都想搀和一点儿，可啥都学不好，莫怪莫怪。</p>
-  </div>
-
-  <nav class="sidebar-nav">
-   <!-- <a class="sidebar-nav-item" href="/">首页</a>  -->
+  <body class="theme-base-08 layout-reverse ">
 
     
-
-    
-    
-      
-        
-      
-    
-      
-        
-          <a class="sidebar-nav-item" href="/about.html">关于</a>
-        
-      
-    
-      
-    
-      
-        
-      
-    
-      
-        
-      
-    
-
-    <!-- <a class="sidebar-nav-item" href="https://github.com/poole/hyde/archive/v2.1.0.zip">Download</a> -->
-    <!-- <a class="sidebar-nav-item" href="https://github.com/poole/hyde">GitHub project</a> -->
-    <!-- <span class="sidebar-nav-item">Currently v2.1.0</span> -->
-  </nav>
-
-  <div class="sidebar-item">
-    <p>
-      &copy; 2015. All rights reserved.
-    </p>
-  </div>
-</div>
-
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
@@ -89,9 +40,19 @@
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="/" title="Home">梓非徐</a>
-            <small>交互、视觉、产品</small>
+            <div class="navigation_left">
+              <a href="/" title="Home" id="SiteHomeTitle">梓非徐</a>
+              <small>Product Design</small>
+            </div>
+            <ul class="navigation_right">
+              <li><a href="/">Home</a></li>
+              <li><a href="/about.html">About</a></li>
+              <li><a href="/feed.xml" target="_blank">RSS</a></li>
+            </ul>
           </h3>
+
+
+
         </div>
       </div>
 
@@ -104,32 +65,15 @@
       </div>
     </div>
 
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+  
 
-    <script>
-      (function(document) {
-        var toggle = document.querySelector('.sidebar-toggle');
-        var sidebar = document.querySelector('#sidebar');
-        var checkbox = document.querySelector('#sidebar-checkbox');
-
-        document.addEventListener('click', function(e) {
-          var target = e.target;
-
-          if(!checkbox.checked ||
-             sidebar.contains(target) ||
-             (target === checkbox || target === toggle)) return;
-
-          checkbox.checked = false;
-        }, false);
-      })(document);
-    </script>
 
      <div class="footer">
       <footer>
   <hr>
   <div class="footer">
     <p>
-      &copy; 2015 Zifeixu. Powered by <a href="http://www.jekyllrb.com/">Jekyll</a>. Theme by <a href="http://lanyon.getpoole.com/">Lanyon</a>.  
+      &copy; 2014-2015 Zifeixu. Powered by <a href="http://www.jekyllrb.com/">Jekyll</a>.
     </p>
     </div>
 </footer>

@@ -46,11 +46,12 @@ a {
   outline:none;
 }
 a:hover {
-  text-decoration:underline
+  text-decoration:none;
+  outline: 0;
 }
 
 html {
-  font-family: "微软雅黑","Arial","Helvetica","sans-serif";  
+  font-family: 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, tahoma, STHeiti, 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; 
 
 }
 
@@ -91,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 56em) {
   .container {
-    max-width: 38rem;
+    max-width: 660px;
   }
 }
 
@@ -103,28 +104,30 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .masthead {
-  padding-top:    1rem;
-  padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  padding-top:    0.6rem;
+  padding-bottom: 0.6rem;
+  margin-bottom: 4rem;
   border-bottom: 1px solid #eee;
 }
 .masthead-title {
-  margin-top: 0;
+  margin-top: 10px;
   margin-bottom: 0;
   color: #505050;
 }
 .masthead-title a {
+  margin-top: 10px;
   color: #505050;
 }
 .masthead-title small {
-  font-size: 75%;
+  margin-top: 10px;
+  font-size: 14px;
   font-weight: 400;
-  color: #c0c0c0;
+  color: #8f9cb3;
   letter-spacing: 0;
 }
 
 @media (max-width: 48em) {
-  .masthead-title {
+  .masthead-title a{
     text-align: center;
   }
   .masthead-title small {
@@ -153,8 +156,8 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: 0;
   bottom: 0;
-  left: -14rem;
-  width: 14rem;
+  left: -16rem;
+  width: 16rem;
   visibility: hidden;
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -166,7 +169,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 30em) {
   .sidebar {
-    font-size: .75rem; /* 14px */
+    font-size: 1rem; /* 14px */
   }
 }
 
@@ -308,7 +311,6 @@ a.sidebar-nav-item:focus {
 
 .page,
 .post {
-  margin-bottom: 4em;
 }
 
 /* Blog post or page title */
@@ -317,9 +319,12 @@ a.sidebar-nav-item:focus {
 .post-title a {
   color: #303030;
 }
+.post-title a:hover{color:#31649e;text-decoration:none; }
 .page-title,
 .post-title {
   margin-top: 0;
+  margin-bottom: 8px!important;
+  font-weight: bold;
 }
 
 /* Meta data line below post title */
@@ -417,7 +422,7 @@ a.pagination-item:hover {
 
 .layout-reverse .sidebar {
   left: auto;
-  right: -14rem;
+  right: -16rem;
 }
 .layout-reverse .sidebar-toggle {
   left: auto;
@@ -447,9 +452,10 @@ a.pagination-item:hover {
   background-color: #22A7F0;
 }
 .theme-base-08 .container a,
-.theme-base-08 .sidebar-toggle,
+.theme-base-08 .sidebar-toggle {color: #555}
+.theme-base-08 .container a:hover,
 .theme-base-08 .related-posts li a:hover {
-  color: #22A7F0;
+  color: #31649e!important;
 }
 
 /* Orange */

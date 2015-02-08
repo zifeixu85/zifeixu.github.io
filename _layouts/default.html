@@ -3,9 +3,9 @@
 
   {% include head.html %}
 
-  <body class="theme-base-08 layout-reverse sidebar-overlay">
+  <body class="theme-base-08 layout-reverse ">
 
-    {% include sidebar.html %}
+    
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
@@ -13,9 +13,19 @@
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
+            <div class="navigation_left">
+              <a href="/" title="Home" id="SiteHomeTitle">{{ site.title }}</a>
+              <small>{{ site.tagline }}</small>
+            </div>
+            <ul class="navigation_right">
+              <li><a href="/">Home</a></li>
+              <li><a href="/about.html">About</a></li>
+              <li><a href="/feed.xml" target="_blank">RSS</a></li>
+            </ul>
           </h3>
+
+
+
         </div>
       </div>
 
@@ -24,32 +34,15 @@
       </div>
     </div>
 
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+  
 
-    <script>
-      (function(document) {
-        var toggle = document.querySelector('.sidebar-toggle');
-        var sidebar = document.querySelector('#sidebar');
-        var checkbox = document.querySelector('#sidebar-checkbox');
-
-        document.addEventListener('click', function(e) {
-          var target = e.target;
-
-          if(!checkbox.checked ||
-             sidebar.contains(target) ||
-             (target === checkbox || target === toggle)) return;
-
-          checkbox.checked = false;
-        }, false);
-      })(document);
-    </script>
 
      <div class="footer">
       <footer>
   <hr>
   <div class="footer">
     <p>
-      &copy; 2015 Zifeixu. Powered by <a href="http://www.jekyllrb.com/">Jekyll</a>. Theme by <a href="http://lanyon.getpoole.com/">Lanyon</a>.  
+      &copy; 2014-2015 Zifeixu. Powered by <a href="http://www.jekyllrb.com/">Jekyll</a>.
     </p>
     </div>
 </footer>

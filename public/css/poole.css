@@ -45,15 +45,16 @@ html,
 body {
   margin: 0;
   padding: 0;
+  background: #f8f9fa!important;
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, tahoma, STHeiti, 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 20px;
+    font:14px ;
   }
 }
 
@@ -87,19 +88,21 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 26px; 
+  font-weight: bold;
 }
 h2 {
-  margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 24px; 
+  margin: 24px 0;
+  font-weight: bold;
 }
 h3 {
-  margin-top: 1.5rem;
-  font-size: 1.25rem;
+  font-size: 22px; 
+  margin: 24px 0 12px;
 }
 h4, h5, h6 {
-  margin-top: 1rem;
-  font-size: 1rem;
+  font-size: 18px; 
+  margin: 1.25rem 0 .3125rem; /*20px 5px*/
 }
 
 /* Body text */
@@ -301,9 +304,11 @@ tbody tr:nth-child(odd) th {
  */
 
 .masthead {
-  padding-top:    1rem;
-  padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  height: 60px;
+  padding-top:    10px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  display: block;
 }
 .masthead-title {
   margin-top: 0;
@@ -330,7 +335,7 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 3em;
 }
 
 /* Blog post or page title */
@@ -443,22 +448,51 @@ a.pagination-item:hover {
   font-size: 85%;
   text-align: center;
   color: #999999;
-  background-color: #f9f9f9;
+  background-color: #f0f0f0;
   border-radius: 3px;
 }
 
 .footer {
-  max-width: 38rem;
-  padding-left:  1rem;
-  padding-right: 1rem;
-  margin-left:  auto;
+  max-width: 660px;
+  margin-left: auto;
   margin-right: auto;
   margin-bottom: 2em;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: .875em;
-  color: #313131;
+  color: #8f9cb3;
 }
+.footer p{font-size: 14px;margin-left: auto;margin-right: auto;}
 
 
+.readmore {margin-top:16px;display: block;height: 30px;margin-bottom:2.5em;}
+.readmore a {color: #4084D0!important;font-weight: normal;font-size: 16px;text-decoration: none;float: left;}
+.readmore a:hover {color: #31649e!important;text-decoration: none!important;}
 
 
+#SiteHomeTitle {font-size: 25px;font-weight: bold;}
+#SiteHomeTitle:hover {text-decoration: none!important;color: #242932!important;}
+
+.masthead-title .navigation_left {max-width:260px;float:left;}
+
+.masthead-title .navigation_right {max-width: 400px;
+  margin-top: 0px;
+  text-align: left;
+  float: right;
+ }
+
+ .masthead-title .navigation_right li {
+  display: inline;
+  list-style: none;
+  margin-left: 15px;
+ }
+
+ .masthead-title .navigation_right li a {
+  color: #8f9cb3;
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 14px;
+ }
+
+ .masthead-title .navigation_right li a:hover {
+  color: #31649e;
+ }
+
+.lineline {max-width: 660px;height: 1px;background:#eee }

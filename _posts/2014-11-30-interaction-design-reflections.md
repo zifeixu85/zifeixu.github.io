@@ -1,6 +1,8 @@
 ---
 layout: post 
 title: 交互从业两月后的一点思考
+category: product design
+description: <img src="http://qiniu.zifeixu.com/2014-11-30-interaction-design-reflections.PNG"></img>从想要做交互设计到现在已经过去一年多时间；真正开始做交互设计，也算过去大半年时间了。真的发现这条要走的路还很长很长，而自己，不过才刚刚上路。<br><br>结合自己最近的经历，有以下几点感触，不是干货，只是结合自己的情况的总结而已，并且很多东西自己才开始做，所以效果如何不做保证
 --- 
 
 

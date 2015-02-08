@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         rdiscount
 highlighter:      pygments
 
 # Permalinks
@@ -8,19 +8,12 @@ relative_permalinks: true
 
 # Setup
 title:            梓非徐
-tagline:          '交互、视觉、产品'
-description:      '交互设计新人，交互、视觉、产品都想搀和一点儿，可啥都学不好，莫怪莫怪。'
+name:			  梓非徐的产品设计
+tagline:          'Product Design'
+description:      '不会产品的设计，不是好的交互。'
 url:              http://zifeixu.com
 baseurl:          /
 
-author:
-  name:           '梓非徐'
-  url:            http://weibo.com/zifeixu
 
-paginate:         8
+paginate:         16
 
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde

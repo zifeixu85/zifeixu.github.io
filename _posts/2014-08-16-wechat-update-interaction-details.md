@@ -1,6 +1,8 @@
 ---
 layout: post 
 title: 谈谈微信更新后优化的交互细节
+category: product design
+description: 8月14号微信又更新了，个人从非专业角度体验后，发现一些小小惊喜和变化，发出来仅供参考。<br>搜索和转账功能大家都在热议，我呢没有仔细体验，就先不写了，仅从一些交互的角度出发，说一说release note上没有说的点
 --- 
 
 

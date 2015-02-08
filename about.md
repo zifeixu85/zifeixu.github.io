@@ -23,5 +23,44 @@ title: 关于
 我本来想说：**会说会写会思考的人，才能做好的交互设计！** 但其实我就是想找个地方唠叨一下，希望诸君莫烦，切看切珍惜！
 
 
+### 四、足迹
+
+>微博：[http://weibo.com/zifeixu](http://weibo.com/zifeixu)
+
+>知乎：[http://www.zhihu.com/people/zifeixu](http://www.zhihu.com/people/zifeixu)
+
+>豆瓣：[http://www.douban.com/people/zifeixu85/](http://www.douban.com/people/zifeixu85/)
+
+>简书：[http://www.jianshu.com/users/f066330fc080](http://www.jianshu.com/users/f066330fc080)
+
+>Twitter：[https://twitter.com/zifeixu85](https://twitter.com/zifeixu85)
+
+>Instagram：[http://instagram.com/zifeixu85/](http://instagram.com/zifeixu85/)
+
+>Dribbble：[https://dribbble.com/zifeixu](https://dribbble.com/zifeixu)
+
+>Github：[https://github.com/zifeixu85](https://github.com/zifeixu85)
+
+>Linkedin：[https://www.linkedin.com/in/zifeixu85](https://www.linkedin.com/in/zifeixu85)
+
 <br>
-> 2015.02.05 上海
+2015.02.05 上海
+
+<br><br><br>
+
+<!-- 多说评论框 start -->
+  <div class="ds-thread" data-thread-key="{{ page.url }}" data-title="{{ page.title }}" data-url="{{site.url}}{{ page.url }}" style="margin-bottom:100px;"></div>
+<!-- 多说评论框 end -->
+<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"zifeixu"};
+  (function() {
+    var ds = document.createElement('script');
+    ds.type = 'text/javascript';ds.async = true;
+    ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+    ds.charset = 'UTF-8';
+    (document.getElementsByTagName('head')[0] 
+     || document.getElementsByTagName('body')[0]).appendChild(ds);
+  })();
+  </script>
+<!-- 多说公共JS代码 end -->
