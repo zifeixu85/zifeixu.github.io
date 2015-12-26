@@ -1,0 +1,58 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}</link>
+    <language>zh-CN</language>
+    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <title>{{ site.title | xml_escape }}</title>
+      <link>{{ site.url }}{{ site.baseurl }}</link>
+      <url>http://podcast-zifeixu.b0.upaiyun.com/iTunes_Podcast-cover.jpg</url>
+    </image>
+    <itunes:author>{{ site.data.author.name }}</itunes:author>
+    <itunes:subtitle>{{ site.description | xml_escape | truncatewords 250 }}</itunes:subtitle>
+    <itunes:summary>Podcast by Zifeixu.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>{{ site.data.author.name }}</itunes:name>
+      <itunes:email>{{ site.data.author.email }}</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:image href="http://podcast-zifeixu.b0.upaiyun.com/iTunes_Podcast-cover.jpg"/>
+    <itunes:category text="Technology" />
+    {% for post in site.categories.podcast %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        <description><![CDATA[ 
+        {{ post.content }}
+        ]]>
+        </description>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <link>{{ post.url | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+        {% for tag in post.tags %}
+        <category>{{ tag | xml_escape }}</category>
+        {% endfor %}
+        {% for cat in post.categories %}
+        <category>{{ cat | xml_escape }}</category>
+        {% endfor %}
+        <enclosure url="{{ post.audiolink}}" length="{{ post.bytelength }}" type="{{ post.podcasttype }}" />
+        <itunes:author>{{ site.data.author.name }}</itunes:author>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:subtitle> <![CDATA[ 
+          {{ post.excerpt }}
+        ]]>
+        </itunes:subtitle>
+        <itunes:summary> <![CDATA[ 
+          {{ post.content }}
+        ]]>
+        </itunes:summary>
+        <itunes:duration>{{ post.podcastlength }}</itunes:duration>
+      </item>
+    {% endfor %}
+</channel>
+</rss>
