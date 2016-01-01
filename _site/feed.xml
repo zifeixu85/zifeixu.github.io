@@ -12,7 +12,7 @@
 
 &lt;p&gt;今天，我在这里讲一讲，面对如此繁多的讲座，我是如何选择，又如何去学习吸收的。&lt;/p&gt;
 
-&lt;p&gt;文章末尾会对讲座内容放一些简单的介绍和相关的链接（PPT、视频回放等资料），&lt;A HREF=&quot;#lectures&quot;&gt;[点此直接查看]&lt;/A&gt;。&lt;/p&gt;
+&lt;p&gt;文章末尾会对讲座内容放一些简单的介绍和相关的链接（PPT、视频回放等资料），&lt;a href=&quot;#lectures&quot;&gt;点此直接查看&lt;/a&gt;。&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
@@ -142,7 +142,7 @@
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;h2&gt;五、最近讲座分享 &lt;a href=&quot;#lectures&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;h2 id=&quot;lectures&quot;&gt; 五、最近讲座分享 &lt;/h2&gt;&lt;/h2&gt;
 
 &lt;p&gt;部分有事后记录的纸质笔记，可点击链接查看。&lt;/p&gt;
 
