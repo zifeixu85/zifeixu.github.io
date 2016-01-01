@@ -7,6 +7,223 @@
 		<atom:link href="http://zifeixu.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+			   <title>设计类讲座总结分享</title>
+			   <description>&lt;p&gt;在2015年的12月里，我一共参加了五场讲座，整整四天时间，二十几位嘉宾的分享，有的好有的槽，有的发人深省，有的浪费时间，有的让我了解到陌生的领域，而有的加深了我对专业设计的理解......&lt;/p&gt;
+
+&lt;p&gt;今天，我在这里讲一讲，面对如此繁多的讲座，我是如何选择，又如何去学习吸收的。&lt;/p&gt;
+
+&lt;p&gt;文章末尾会对讲座内容放一些简单的介绍和相关的链接（PPT、视频回放等资料），&lt;A HREF=&quot;#lectures&quot;&gt;[点此直接查看]&lt;/A&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2&gt;一、为何要听讲座？&lt;/h2&gt;
+
+&lt;p&gt;我个人蛮喜欢参加讲座，也从自我出发，尝试分析听讲座的好处和坏处，欢迎指正。&lt;/p&gt;
+
+&lt;p&gt;好处:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;可以看到别人在不同角度是如何理解并分析解决问题&lt;/li&gt;
+&lt;li&gt;拓展知识面，增长眼界和见识(特别是 BAT 类的互联网公司，有很长时间的知识沉淀)&lt;/li&gt;
+&lt;li&gt;借鉴学习别人/团队的方法论&lt;/li&gt;
+&lt;li&gt;分享者一般是比现在的自己 level 更高的人，这种人在生活中很少会跟你分享他的成长，讲座是一个机会&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;坏处:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;比较耗时，常常是一整天或至少大半天&lt;/li&gt;
+&lt;li&gt;常因不能回顾复习，而导致内容不易消化（没有及时的 PPT 或视频）&lt;/li&gt;
+&lt;li&gt;偶尔会导致 「&lt;strong&gt;我已经会了&lt;/strong&gt;」 的错觉&lt;/li&gt;
+&lt;li&gt;因为只能听演讲者一个人分享，对陌生领域的知识有时会陷入误区(因为分享者的水平高低不等，而自己不能作出判断)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;除了耗时之外，其他几点都是可以通过方法去改善或解决的，所以听讲座仍然不失为一种不错的学习拓展途径。&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2&gt;二、如何挑选一场好讲座？&lt;/h2&gt;
+
+&lt;p&gt;就好像买书时我们面临的选择疑难症一样，面对现在如此繁多的讲座资源(线下跟线上)，我们也要做好精心的挑选才行，好讲座让人回味，烂分享费人时间。&lt;/p&gt;
+
+&lt;p&gt;一般来说，只要符合几个基本条件，我都会考虑参加:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;知名的演讲者&lt;/li&gt;
+&lt;li&gt;知名的互联网公司或设计咨询类公司&lt;/li&gt;
+&lt;li&gt;演讲者经常出席讲座分享&lt;/li&gt;
+&lt;li&gt;演讲者分享同一主题次数更多的&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;blockquote&gt;&lt;p&gt;上述条件最后两则，简单说明一下，经常出席讲座分享的说明这人演讲能力不错，一般都会把内容有逻辑的讲清楚；而同一主题分享次数更多的，至少说明内容还是比较受欢迎，并很可能已经经过无数次的修订优化，类似于书的修订版概念。&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;除了甄别出有质量的讲座，有的时候我们还会选择去拓宽自己的知识面，也就是去学习那些对现在的自己来说比较陌生的领域；这个时候只要分享者满足上述任一条件且内容是我感兴趣的未知领域，我都会考虑参加。&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2&gt;三、听讲座，怎么听？&lt;/h2&gt;
+
+&lt;p&gt;我年轻的时候特别爱去参加各类讲座，当时的一些讲座鸡汤很多，每次听完后就沉浸在一种 「&lt;strong&gt;即将获得成功&lt;/strong&gt;」 的幻想当中，做事充满了干劲和激情应该是当时仅剩的好处了吧，然而在一两周之后就被打回原形，再过一段时间就把演讲的内容忘得差不多了。现在回想起来，当时去听讲座，只关注到了作者成功后的总结，却忽视了他所经历的过程，但却正是因为他们所经历过程的不同，才造就了他们现在的成就，最值得关注的不是他们分享的「干货」，而是他们的经历和成长。&lt;/p&gt;
+
+&lt;p&gt;专注在「干货」上，就如一个伸手党：比如我们拿到了作者分享的 Flat UI Kit，却不知道为什么大家都要用 Flat Design？如果不去理解和经历拟物的过程，又如何知道扁平的初衷呢？&lt;/p&gt;
+
+&lt;p&gt;而专注在演讲者的经历上，我们就能知道他们在面临那种困境时，是如何去思考和寻找解决方向的；还能知道他们去做了什么，才得出了今天分享的「干货」，那么如果我们也用同样的做法，会不会得出一样的或者不一样的「干货」呢？&lt;/p&gt;
+
+&lt;p&gt;每个人的经历都是不可复制的，特别是那些已在某些方面获得一定成就的人；他们在面对不同方向时如何抉择？又在哪些方面付出更多努力？这些东西往往能给我们更多启发。&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;下面简单总结一下自己听讲座时最关注的地方:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;听自己最感兴趣的内容；&lt;/li&gt;
+&lt;li&gt;听作者最熟悉并亲自经历的内容；(我听过 A 演讲者分享的却是 B 做的 PPT，乱…)&lt;/li&gt;
+&lt;li&gt;接收「干货」，但保持质疑，不要直接纳入到自己的知识体系中，需要经过消化吸收和验证的过程；&lt;/li&gt;
+&lt;li&gt;关注演讲者的学习成长经历（他的「干货」或成就是否跟某段经历息息相关？）；&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;strong&gt;学习 &lt;em&gt;如何做一个好的分享者&lt;/em&gt; 要关注的地方:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;看看哪些嘉宾的哪些内容，最容易引起大家的共鸣和掌声；&lt;/li&gt;
+&lt;li&gt;看看分享内容的组织整理是否合理；&lt;/li&gt;
+&lt;li&gt;关注那些视觉引导做得不错的内容(PPT 的制作)；&lt;/li&gt;
+&lt;li&gt;关注那些肢体语言引导不错的演讲者(学习演讲技能)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;每一次参加讲座，事后总能听到大家说 A 的内容好水，B 的「干货」挺多的等等，除了分享的内容确实真的水之外，还有以下两种可能:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;大部分情况是不在类似岗位、没有相似经历，所以难以产生共鸣；&lt;/li&gt;
+&lt;li&gt;还有一部分，是没有抓住分享的重点，关注旁枝末节(比如拙劣的演讲能力)去了而不再仔细听讲；&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;看看自己有没有这两方面的问题，稍微注意一下会发现其实内容还不错，还原一下场景说不定能得到一些收货；但若真不幸遇到了很水的分享，大可以转移关注点，从演讲者身上挖掘其他的亮点（比如 Ta 丰富的肢体语言是如何做到的？），并持续关注演讲内容，避免错过精彩部分（千万不要跟旁边人唠嗑）。&lt;/p&gt;
+
+&lt;p&gt;要知道，在听每一场讲座分享的时候，都是在付出你的时间和生命，所以一定有必要&lt;strong&gt;关注最核心的地方，适当做一些笔记以便在事后还能去回顾思考&lt;/strong&gt;（最好不要指望 PPT 和视频），回去后尽快的消化总结，将对自己最有用的那一小撮内容记下来，对的，真的可能只有一小撮内容，但确是别人的经历对我们最宝贵的启发。&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2&gt;四、如何办一场好讲座？&lt;/h2&gt;
+
+&lt;p&gt;对于好讲座，这次也是深有体会，几场讲座中「TEDxCaohejing-体验者」给了我非常棒的体验，首先是在参会前一天晚上收到了一封非常详细的参会指南(是我目前收到过最详尽的):&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/2016-01-01-view.png&quot; title=&quot;体验者SALON-观众须知&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;em&gt;{&lt;a href=&quot;&quot;&gt;点击查看完整大图&lt;/a&gt;}&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;第二天到会场的时候，打车到了酒店后门，刚进去没几步就看到一个带着袖标的女生，问我是不是参加 TED 活动并给我指路；进酒店会议室的时候也有很好的引导观众跟嘉宾的程序；酒店的会议室不大，全场应该不到两百人，座位都很宽松，观众座位距前台嘉宾都很近；除了前面的大屏幕，左右各有一个悬挂显示器转播 PPT；送的礼品中有酒店的矿泉水等等。&lt;/p&gt;
+
+&lt;p&gt;上半场的三位嘉宾分享之后，有一个长达 45 分钟的茶歇，让在场观众和嘉宾们在用茶点的同时可以互相交流沟通（要知道平时的讲座我们都只能仰望嘉宾在台上分享，也和旁边座位的人没有任何沟通，一个人参加也是一个人离场）；最过分的是茶点居然异常的丰富，除了各式水果和蛋糕，还有蒸饺(虾仁口味)、红酒、咖啡、红茶和曲奇饼干等等......&lt;/p&gt;
+
+&lt;p&gt;说了上面这些，相信你已经知道&lt;strong&gt;怎样办一场好讲座，我归纳为以下几点&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;要有清晰的指南&lt;/li&gt;
+&lt;li&gt;活动现场周围要有清晰的标志或人员引导&lt;/li&gt;
+&lt;li&gt;进场时有引导(包括进场和入座)&lt;/li&gt;
+&lt;li&gt;活动场地的选择和参会人数的控制很重要&lt;/li&gt;
+&lt;li&gt;场地最好离市中心不要太远&lt;/li&gt;
+&lt;li&gt;场地不要太大，否则后场观众离前台很远&lt;/li&gt;
+&lt;li&gt;人数不要太多，否则入场和落座都很不好安排&lt;/li&gt;
+&lt;li&gt;送的礼品中一定要有水，其他都不重要&lt;/li&gt;
+&lt;li&gt;时间跨度太长的话，建议有茶歇，带茶点的茶歇&lt;/li&gt;
+&lt;li&gt;好讲座最关键的还是嘉宾了，甚至一个重量级嘉宾都能构成 90% 观众到场的理由(明星光环)&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;关于好讲座的总结就到这里，下面介绍最近的几场讲座时，会吐槽一下都有哪些做得不好的地方 :P&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2&gt;五、最近讲座分享 &lt;a href=&quot;#lectures&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;部分有事后记录的纸质笔记，可点击链接查看。&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4&gt;Ping大会：增长&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;时间：12月12日&lt;/li&gt;
+&lt;li&gt;活动介绍：&lt;a href=&quot;http://www.huodongxing.com/event/8310979562600?utm_source=tuicool&amp;amp;utm_medium=referral&quot;&gt;链接在此&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;blockquote&gt;&lt;p&gt;朋友公司组织的，盛情之下去参加了，地点在高大上的外滩3号，氛围不错，茶点略少（赞助商提供），最后的 Teambition CEO 齐俊元的分享是我受益最多的，关于 Growth Hacker，&lt;a href=&quot;http://qiniu.zifeixu.com/ping%E5%A4%A7%E4%BC%9A%E7%AC%94%E8%AE%B0.JPG&quot;&gt;笔记在此&lt;/a&gt;。&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4&gt;UCDChina：O2O领域交互设计分享&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;时间：12月13日&lt;/li&gt;
+&lt;li&gt;视频回放：&lt;a href=&quot;http://www.cctalk.com/course/153351633034/#tab_play&quot;&gt;链接在此&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;blockquote&gt;&lt;p&gt;做设计的不少人都知道 UCDChina 这个组织吧，不过现在上海应该算是 UCDChina 还在活动的最后一个场地了，希望可以一直走下去!&lt;/p&gt;
+
+&lt;p&gt;参加过 UCDChina上海的好几次活动，规模一直都比较精致（控制在几十人），场地选在沪江网总部（张江），这一次是大众点评组团来分享的，感兴趣的可以看回放（暂无笔记）。&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4&gt;携程UED产品与设计大会：数据时代的产品与设计&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;时间：12月19日&lt;/li&gt;
+&lt;li&gt;活动介绍：&lt;a href=&quot;http://uedsummit.ctrip.com/ued2015/&quot;&gt;链接在此&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;blockquote&gt;&lt;p&gt;携程的这个讲座已经是第三届，可以说一年不如一年，且票价两百多稍贵，目测基本都是公司组团报销来参加的；今年的场地在上海南站附近，位置尚好，但估计是票超卖太多了，好多人被迫站在场外；对我来说最有价值的内容还是下午的工作坊（单独买票30一张），不过工作坊部分的笔记还没有做出来，目前只有零散的一些上午场笔记，&lt;a href=&quot;http://qiniu.zifeixu.com/%E6%90%BA%E7%A8%8BUED%E5%A4%A7%E4%BC%9A%E7%AC%94%E8%AE%B0.JPG&quot;&gt;笔记在此&lt;/a&gt;。&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4&gt;TEDxCaohejing：体验者&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;时间：12月20日&lt;/li&gt;
+&lt;li&gt;活动介绍：&lt;a href=&quot;http://tedx1220-tcwechatshare.eventdove.com/@TEDNews&quot;&gt;链接在此&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;视频回放：等待主办方放出后更新&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;blockquote&gt;&lt;p&gt;用户体验做得最好的一场讲座，嘉宾分享质量也不错，特别是最后压轴的江南大学设计学院院长 辛向阳老师，分享的内容发人深省，以至于我现在都还只理解很少很少的部分，不敢妄做笔记；等到视频出来了，强烈建议做设计的同学去看看；目前只有前面一些分享的简单笔记，&lt;a href=&quot;http://qiniu.zifeixu.com/TED%E7%AC%94%E8%AE%B0.jpg&quot;&gt;笔记在此&lt;/a&gt;。&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4&gt;优设2015年度线下分享：寒冬到来，设计师生存指南&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;时间：12月27日&lt;/li&gt;
+&lt;li&gt;活动介绍：&lt;a href=&quot;http://detail.koudaitong.com/show/goods?alias=1y7n3x0pna7px&quot;&gt;链接在此&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;回放地址：&lt;a href=&quot;http://e.vhall.com/962725263&quot;&gt;链接在此&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;blockquote&gt;&lt;p&gt;这个值得最多吐槽了吧：场地很远很偏僻；引导入场时错误百出（没有告诉我去旁边领取礼物，我朋友早到了据说在场外寒风中排队半小时）；送的礼物中没有水；超过七百人的场地，导致只有最前面的童鞋能看清楚 PPT（只有一块大屏幕）；现场组建的微信抽奖群不能加入（微信群限制500人，而到场700+）......&lt;/p&gt;
+
+&lt;p&gt;不过好在其中几位分享嘉宾的内容还不错，而且抽奖时还意外抽中了书，算是收获也不错的；这一场暂时无笔记，不过有回放地址，感兴趣的可以看看。&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;ps：最近我们团队内部也在组织小规模的分享学习，关于这方面你有什么好的分享或建议，欢迎留言告知，谢谢!&lt;/p&gt;
+</description>
+			   <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+			   <link>http://zifeixu.com/lectures/</link>
+			   <guid isPermaLink="true">http://zifeixu.com/lectures/</guid>
+			   </item>
+		
+			<item>
 			   <title>挖坑指南（一）- 设计与开发的沟通</title>
 			   <description>&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/%E6%8C%96%E5%9D%91%E6%8C%87%E5%8D%97_%E5%8D%9A%E5%AE%A2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -637,124 +854,6 @@
 			   <pubDate>Wed, 02 Apr 2014 00:00:00 +0800</pubDate>
 			   <link>http://zifeixu.com/google-to-remove-links-underlined-interactive-design/</link>
 			   <guid isPermaLink="true">http://zifeixu.com/google-to-remove-links-underlined-interactive-design/</guid>
-			   </item>
-		
-			<item>
-			   <title>互联网跨界交流大会上海站</title>
-			   <description>&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/2014-01-12_%20internet-exchange-conference-shanghai-station.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2&gt;参加缘由&lt;/h2&gt;
-
-&lt;p&gt;这一次的机缘来自微信公众账号：&lt;strong&gt;&lt;em&gt;Crossin编程教室&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;他最近有一篇文章说到这个会议，手里刚好有几张票要作为福利赠送；我一听这名字，&lt;strong&gt;&lt;em&gt;互联网&lt;/em&gt;&lt;/strong&gt;，&lt;strong&gt;&lt;em&gt;跨界&lt;/em&gt;&lt;/strong&gt;，全部都是自己感兴趣的点，万万没有不去的理由啊。&lt;/p&gt;
-
-&lt;p&gt;于是乎，我就把上回在python编程课上与他在电梯偶遇的场景说出来套近乎，果然给我送了一张，作为感谢我这里再次推荐这个公众账号，对编程有一点兴趣的都可以关注：&lt;strong&gt;&lt;em&gt;Crossin编程教室&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2&gt;关于互联网跨界交流大会&lt;/h2&gt;
-
-&lt;p&gt;这个会议我是第一次参加，也是第一次听说厉哥这号人物，一句话总结就是很棒的大会和一群很会侃的人，有干货、有内幕、还有段子跟调侃，收获很足。&lt;/p&gt;
-
-&lt;p&gt;在网上找了一些资料，厉哥是加拿大籍华人，也叫Roy Li，13年回国，按照道哥的话来说，就是2013年3月份以前还没有的人，突然冒出来跟每个人勾肩搭背互相调侃，好像大家都很熟的样子，其实大部分都是第一次见面。&lt;/p&gt;
-
-&lt;p&gt;当然上面这一段也是我在别人那里看过来的，我比较欣赏厉哥，至少他是一个很会说的家伙，balabalabala随随便便一个话题能跟你侃一大堆，所以在这里也推荐一下我今天才关注的他的微信公众账号：&lt;strong&gt;&lt;em&gt;人生如戏&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2&gt;关于出场嘉宾&lt;/h2&gt;
-
-&lt;p&gt;详细的出场嘉宾可以见活动地址：&lt;a href=&quot;http://www.vasee.com/event/view.jsp?id=ff8080814329c0a80143587c306a7eb4&quot;&gt;互联网跨界交流大会上海站&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;这里就说说我印象比较深的：&lt;/p&gt;
-
-&lt;h3&gt;Tinyfool&lt;/h3&gt;
-
-&lt;p&gt;这是我以前就有关注的一个人，因为用mac所以在微博上看到并关注的，是一个ios开发者，自己建有一个论坛，喜欢走路锻炼身体。对他的了解仅限于此，但一直想找机会跟他交流&lt;/p&gt;
-
-&lt;p&gt;这一次印象最深的是说他的前妻的故事：一个农村来的小姑娘，十八九岁那一年（04、05年）在北京打工做理发，一次偶然的机会问起一个来理发的年轻小伙是做什么工作的，那个小伙子说是做程序开发的，她问他一个月能赚多少，他告诉她一个月6000元；她惊呆了，那一刻的对话改变了她未来的方向，她从来没想到居然有一个月那么多钱的工作。后面的故事就是一个什么都不会的女孩去报了培训学校学程序，从php开始一路走来，后来在她老公的引导下开始做ios开发，一路跌跌撞撞，从两千多的月薪开始，做到后来的一万二，再到后来去了北京360，跟着从微软谷歌出来的程序员一起共事……&lt;/p&gt;
-
-&lt;p&gt;这不是一个成功学书籍上的励志故事，这是一件真实的事情，她没有学历、没有干爹，从北大青鸟学出来的技术还一塌糊涂，在他老公朋友的公司里，第一天就被骂哭了，然后经常被骂哭，但她哭完后还是会继续回到公司做事学习，她有着别人没有的一些东西，这些东西让她渴望学习，坚持做着开发。引用一句其他嘉宾的话：&lt;strong&gt;&lt;em&gt;但凡你做一件事到一定程度，总能找到欣赏你的人！&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;大家都想去帮助愿意去做事的人。&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;h3&gt;季昕华&lt;/h3&gt;
-
-&lt;p&gt;全球只有两个人可以从ATM上免费取钱，一个在国外，已经死了，另一个在国内。&lt;/p&gt;
-
-&lt;p&gt;创业五元素之一：黑客精神&lt;/p&gt;
-
-&lt;p&gt;最大的不安全是不发展&lt;/p&gt;
-
-&lt;p&gt;SDN，软件定义网络。例子：庆丰包子 小麦→虚拟化&lt;/p&gt;
-
-&lt;p&gt;未来的IDC部署SDN，云平台可能会先行&lt;/p&gt;
-
-&lt;p&gt;关于挖人跟留人：厉哥说：和妹子交往，若她涉世未深，就带她看尽人世繁华；若涉世已深，就带她去坐旋转木马。&lt;/p&gt;
-
-&lt;h3&gt;庄明浩&lt;/h3&gt;
-
-&lt;p&gt;VC，经纬创投投资经理。说话逻辑性强有条理，比较欣赏的嘉宾之一&lt;/p&gt;
-
-&lt;p&gt;投资主要看&lt;strong&gt;团队&lt;/strong&gt;跟&lt;strong&gt;方向&lt;/strong&gt;。团队比较客观，比如创始人的背景，经历等，团队成员的构成等。方向是比较主观的，是自己公司认同的方向。&lt;/p&gt;
-
-&lt;p&gt;江湖，你不在江湖行走，就根本没有机会参与其中&lt;/p&gt;
-
-&lt;p&gt;人民币基金，美元基金。因为政策原因，如果你要拿美元基金，可能要半年后才能拿到钱，而人民币是可以立马拿到的。&lt;/p&gt;
-
-&lt;p&gt;影响美元基金的两个条款：19号文、75号文&lt;/p&gt;
-
-&lt;p&gt;一篇知乎长文：&lt;a href=&quot;http://www.zhihu.com/question/22427017/answer/21320180&quot;&gt;为什么移动打车 App 一直在烧钱，而投资人仍愿意一轮一轮投入？&lt;/a&gt;（注：经纬投资了快的打车）&lt;/p&gt;
-
-&lt;h3&gt;王浩，大熊老师&lt;/h3&gt;
-
-&lt;p&gt;淘宝系出身的产品经理，目前创业&lt;/p&gt;
-
-&lt;p&gt;业余时间对90后有过研究，认为90后是直接、好玩、业余时间爱玩，少有关注自我学习的。&lt;/p&gt;
-
-&lt;p&gt;微信上的人很假，一部分是发给自己的朋友看的，一部分是发给自己的家人看的；爱表现，很作假。而这不是90后的菜，他们直接大胆，希望以后有人在这这方面开发出很酷的应用&lt;/p&gt;
-
-&lt;p&gt;要在未来立足，就要在公司多放一些90后的人，未来是他们的天下&lt;/p&gt;
-
-&lt;p&gt;跟人聊天，谈气场跟星座，能很快跟人聊成一片&lt;/p&gt;
-
-&lt;p&gt;PC端电商的流程已经被淘宝固化（比如搜索框、购物车等），不会再有大的改变。移动端电商流程没有标准化，以后会有各种可能性&lt;/p&gt;
-
-&lt;p&gt;PC端的套路在移动端不适用，比如阿里用淘宝的思路做移动端不成功&lt;/p&gt;
-
-&lt;h3&gt;一些其他的关键字句&lt;/h3&gt;
-
-&lt;p&gt;会议前的广告：Innospace 创智天地的创业孵化项目，互联网移动互联网早期项目，在想法阶段即可介入，团队限2-5人，10万元占股6%，有前期创业的各种支持，孵化周期6个月，免费开放的办公场地等&lt;/p&gt;
-
-&lt;p&gt;勤奋不如天分，天分不如大时代&lt;/p&gt;
-
-&lt;p&gt;黑打法，水下打法&lt;/p&gt;
-
-&lt;p&gt;平安→转型→互联网&lt;/p&gt;
-
-&lt;p&gt;金融做媒体，媒体做投资&lt;/p&gt;
-
-&lt;p&gt;人们消费能力提升，以前都玩盗版，现在很多人玩正版游戏&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;思考：是否意味着免费模式未来在国内也会面临挑战？&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;h2&gt;关于我的提问&lt;/h2&gt;
-
-&lt;p&gt;刚去的时候就在微信上留了一个问题，因为这个问题还免费拿到了一本苏杰的《淘宝十年产品事》，非常感谢和喜欢，苏杰的《人人都是产品经理》日前买了多看电子版正在阅读，非常棒，也推荐给大家。&lt;/p&gt;
-
-&lt;p&gt;提问Tinyfool：金融类媒体小公司（20人团队），要做移动端媒体类App，我想问是招聘一个ios开发全职来做软件好？还是外包给外面公司做更好？包括资金投入、开发时间、后期的版本功能升级、Bug修复和维护等方面考虑。当然设计是自己公司解决。&lt;/p&gt;
-
-&lt;p&gt;回答：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;在现在这个时间节点，招到一个ios开发很难，有时候要在这上面卡住好几个月&lt;/li&gt;
-&lt;li&gt;外包更不靠谱&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;如果公司有自己的技术人员，最好是公司内转岗&lt;/strong&gt;，把自己的技术员培养成ios开发者，特别是Objective-C类的程序员&lt;/li&gt;
-&lt;li&gt;如果是网络上比较标准的App，可以复制的，有人已经成功的套用的App，这种解决方案是靠谱的。如果是做一个新App，有新功能的需求，外包不靠谱&lt;/li&gt;
-&lt;li&gt;（季昕华回答）这其实是一个公司转型的问题，转型为互联网公司，这个时候如果找外包，不能为公司内部团队带来多少互联网方面思维的改变，最好是自己团队解决，在这个过程中可以给团队其他成员带来影响。&lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-			   <pubDate>Sun, 12 Jan 2014 00:00:00 +0800</pubDate>
-			   <link>http://zifeixu.com/internet-exchange-conference-shanghai-station/</link>
-			   <guid isPermaLink="true">http://zifeixu.com/internet-exchange-conference-shanghai-station/</guid>
 			   </item>
 		
 	</channel>
