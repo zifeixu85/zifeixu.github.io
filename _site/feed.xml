@@ -7,6 +7,171 @@
 		<atom:link href="http://zifeixu.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+			   <title>讲座笔记：携程 UED 产品与设计大会</title>
+			   <description>&lt;blockquote&gt;&lt;p&gt;携程的这个讲座已经是第三届，可以说一年不如一年，且票价两百多稍贵，目测基本都是公司组团报销来参加的；今年的场地在上海南站附近，位置尚好，但估计是票超卖太多了，好多人被迫站在场外；对我来说最有价值的内容还是下午的工作坊。&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;上面是我在总结最近讲座的时候写到的，下面简单分享一些我记录的笔记。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;最开始主持人（应该是携程的 CTO 叶亚明先生）分享了一个「历史的悖论」，说的是我们站在历史中，看不见局势的变化，而当我们走过那段历史之后，即使总结出了大势的发展，也已经不能作出任何改变。所以我们要学会置身历史之外，就是&lt;strong&gt;尝试把我们放在现在的历史之外，从整个业界的变化趋势看大局的发展脉络&lt;/strong&gt;；这里推荐了一本书《中国人太多了吗》。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;接下来张溪梦先生分享了 Linkedin 和他们公司做数据分析的一些经验，说到了：&lt;strong&gt;如果无法度量，就不能增长&lt;/strong&gt;（可能是彼得·德鲁克所说）；所以如果想要跟进增长，就需要把事物量化。&lt;/p&gt;
+
+&lt;p&gt;产品的价值需要用户使用来体现，所以：&lt;strong&gt;用户价值&gt;产品价值&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;产品经理思考四个层次（见图）&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/38140-5dacb52962f7ffee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;张溪梦先生讲到数据的重要性，并且他自己也在做数据产品，感兴趣可以看看「GrowingIO」。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;去哪儿 胡洁：最好的锻炼，是自己去 Build 一条产品线。解决问题到最后往往成为了解决不确定性的数学问题（如何去理解？）。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;同程网 沈文靖：从 2013 年到 2014 年的数据发现「从朋友处获得推荐」的比例明显上升。&lt;/p&gt;
+
+&lt;p&gt;思考1：类比到「今日头条」跟「读读日报」，一个是机器算法给你推荐文章，一个是你关注的人（朋友或偶像）给你推荐文章；如果把「今日头条」的模式放到旅游推荐中，机器是否也能跟人一较高下呢？（数据的获取是一个问题）&lt;/p&gt;
+
+&lt;p&gt;思考2：什么情况下，我会给朋友推荐外卖？推荐去饿了么订外卖？比如：特别好吃的外卖，性价比高的外卖，饿了么上有优惠的外卖……但可能仅限于熟人推荐，不会推荐到朋友圈、微博，只会&lt;strong&gt;推荐到最近的物理距离内&lt;/strong&gt;，这种情况下一般都是面对面交流，所以要从软件的功能方面入手，可能有点困难。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;自在客 张志杰：以佣金形式吸引老用户介绍新用户，有很高的风险，没有忠诚度，容易倾斜于佣金更高的一方。&lt;/p&gt;
+
+&lt;p&gt;思考：类比到 O2O 领域的红包大战，创业公司的烧钱补贴，都有此类风险，所以从产品角度考虑，并不是一个好策略；但是换个角度，如果从公司战略层面去想，比如公司初创期，需要快速打响名号，在拿到钱的情况下，可以从多个方向入手推广，烧钱也算是一种立竿见影的方式，但可能仅仅会在初期使用这样的策略（大公司在资本支撑下打仗算是另一回事）。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;去哪儿 胡洁：无线端新增用户低于 10%，且大多用户来自印度。&lt;/p&gt;
+
+&lt;p&gt;思考：是否说明旅游标品市场大局已定，未来的突破口应该是其他非标品市场？给出的数据貌似还不能完全肯定这个结果，但是趋势和方向应该是有目共睹的。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;跟谁游 李俊翔：1. 90后很多人不用携程、去哪儿（除了机票、酒店）；2. 年轻人不再注重做攻略，可能知道目的地就直接出发（例子：同学在校门口找了一辆大巴，临时做宣传，结果不到一小时就人满发车了）&lt;/p&gt;
+
+&lt;p&gt;思考：一定要跟 90 后一起玩，去看他们使用什么样的软件，年轻人才是最大的用户群，特别是越年轻越容易被拉取塑造。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;&lt;p&gt;我自己在旅游中遇到的问题：因为总是不想花太多时间在做攻略上，所以出发后遇到各种问题时都会临时的用手机查询，而这类信息在网络上流传有限，往往是在旅游景点的某个固定地方才有详细的告示（比如要坐船，却不知道有哪些班次）；如果能够打破传统旅游景点的信息壁垒，让相关信息都容易被检索，且能做到信息真实和高效率解决问题，会不会也是一个不错的方向呢？&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;下午的讲座就没有参加了，直接去了工作坊，第一场是车享网的 UED 总监陈抒给我们分享了「设计的数据验证」，主要是公司内部产品数据验证的流程和一些案例，内容上给我们这些不太懂数据的设计师们不少启发，特别是我们一致认为方案 A 是好的，但数据的结果却告诉你方案 B 效果更好，诸如此类；不过因为内容太过翔实，所以要等到我消化后再整理出来跟大家分享了。&lt;/p&gt;
+
+&lt;p&gt;下午的第二场是微软的吴坚红老师跟我们分享，主要介绍了微软内部的设计方法论，不过因为特别叮嘱不要外传，所以就不公开分享了，希望理解 ：）&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;我还在整理其他讲座笔记，随后会将有价值的部分梳理出来与大家分享，共同学习 : P&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;&lt;p&gt;原文发布在微信公众号：&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MjM5NDQ3ODI3NQ==&amp;amp;mid=402011733&amp;amp;idx=1&amp;amp;sn=7879bf78621da6cf1909c095d5da82d6&amp;amp;scene=18#rd&quot;&gt;设计师的自我修炼&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/38140-74cda752a8b84ee7?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+			   <pubDate>Sun, 10 Jan 2016 00:00:00 +0800</pubDate>
+			   <link>http://zifeixu.com/ctrip-ued-2015/</link>
+			   <guid isPermaLink="true">http://zifeixu.com/ctrip-ued-2015/</guid>
+			   </item>
+		
+			<item>
+			   <title>讲座笔记：齐俊元 Growing our Growth Team</title>
+			   <description>&lt;blockquote&gt;&lt;p&gt;1.此次分享内容，Teambition 已经重新整理并发布在 36Kr 上，可点击页面底部的「阅读原文」查看。
+&lt;br&gt;2.如需要演讲的速记文字稿，可在微信公众号中直接回复「增长黑客」四个字&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br&gt;
+下面内容根据当时记录的笔记和演讲稿整理：&lt;/p&gt;
+
+&lt;p&gt;主题：Ping++大会·增长
+&lt;br&gt;时间：2015年12月12日下午
+&lt;br&gt;分享人：Teambition CEO 齐俊元&lt;/p&gt;
+
+&lt;p&gt;Teambition 团队最开始是在媒体上看到 Growth Hacker 这个词的，当时最著名的两个案例是 滴滴打车红包 和 Uber邀请新用户奖励，在他们看来这是一件很酷的事，于是他们就组建了自己的 Growth Team，架构和流程如下图：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/teambition_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;市场团队是最接近客户的，于是由他们带头来想创意和点子，接着交给设计团队去完善和设计方案，再交由技术团队开发上线，最后则是数据分析团队跟踪效果。&lt;/p&gt;
+
+&lt;p&gt;一段小插曲则是当时公司里并没有数据分析师，为了验证增长的效果在机缘巧合下找到了一位数据科学家，随后推行的政策也给公司的数据分析带来了很多好处：包括所有应用和系统都必须打点，花几万块钱买了数据可视化的分析工具，还有放上四台大电视，把所有数据实时显示在上面等等。&lt;/p&gt;
+
+&lt;p&gt;然后就在这个架构下进行了第一个项目（也是最后一个）：「Teambition 表情特权」；简单来说就是可以在评论中插入各种有意思的表情。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/teambition_3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;这个项目最后是成功上线了，不过这中间也遇到了很多问题：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;周期太长：持续了三个月时间（从创意到开发上线）&lt;/li&gt;
+&lt;li&gt;没有在前期验证效果（比如做 AB Testing 验证一下）&lt;/li&gt;
+&lt;li&gt;通过微信朋友圈的分享，没办法留下跟踪代码（也就是看不到谁推荐的）&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;最开始的想法是看到谁推荐，就可以给谁开通表情特权，最后没想到微信上居然没有办法跟踪，于是又花了一个礼拜把之前做的事全部推翻，变成了只要在任何渠道看到你做过这件事，你 @ 一下 Teambition 的团队或成员，你就可以获得这个表情特权；这样改了之后才慢慢有人去使用。&lt;/p&gt;
+
+&lt;p&gt;这个过程给 Teambition 团队带来最大的经验是：增长团队，关心的一定是核心业务数据的增长，根本不应该把这个着眼点放在老用户上面。&lt;/p&gt;
+
+&lt;p&gt;最大的变化是：&lt;strong&gt;增长团队，压根不是创意团队；提出好点子让开发去执行的，是产品团队做的事。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;于是在这个基础上，公司成立了新的增长团队。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/teambition_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;第一，我们是发现机会&lt;strong&gt;提出假设，而不是提出创意&lt;/strong&gt;，我们是要在我们巨大的 Teambition 现有的数据里面，去找到能够让我们，让新用户用的更好，停的更久，推荐更多人的方法，所以我们该干的是什么，我们该干得是从我们打的上亿的那些用户的点里面去找，我们以前什么样的用户用 Teambition 用的比较好，什么样的用户注册了 Teambition 之后，他&lt;strong&gt;干了一件特定的事，于是他留下了&lt;/strong&gt;，我们通过这样的东西去定义，如果我们能让其他的人，也干这样的事，他可能留的时间更长，这就是增长的机会。
+&lt;br&gt;— 以上摘自&lt;a href=&quot;&quot;&gt;演讲速记稿&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;提出假设：「如果其他人也做了这件事，他会不会停留更久？」；&lt;/li&gt;
+&lt;li&gt;假设提出后，要去更早的分析数据，及时修正假设；&lt;/li&gt;
+&lt;li&gt;自己去设计方案，自己想清楚了想完善了再开始研发，去尝试；&lt;/li&gt;
+&lt;li&gt;最后再跟踪分析数据；&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;关于产品经理，俊元说他们在产品团队是没有产品经理的，但是在增长团队有三个产品经理。&lt;/p&gt;
+
+&lt;p&gt;接下来是介绍了在这个机制下做的两个新项目：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;提示用户用书签保存项目链接&lt;/li&gt;
+&lt;li&gt;提示用户可以自定义任务阶段&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;这两个项目具体的过程可以在「阅读原文」中看到，这里不做过多赘述了，最后再提一下 Teambition 总结的假设模板：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;我发现&lt;/strong&gt;有很大比例的用户从未创建新任务阶段，而建立了新任务阶段的用户无论从活跃和留存来看都更优异；&lt;strong&gt;因此假设&lt;/strong&gt;如果能够让新用户了解「任务阶段自定义」功能将提高留存。&lt;/p&gt;
+
+&lt;p&gt;最后放上 Teambition 经过一年多的探索后对「增长黑客」所下的一个定义：&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Teambition 增长团队由工程师、数据分析师和产品经理组成。他们像科学家一样通过实验来找到让 Teambition 不断变得更好的方法。&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;拓展阅读：如果对「增长团队」感兴趣，推荐购买范冰的《增长黑客》
+&lt;img src=&quot;http://qiniu.zifeixu.com/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;如需要演讲的速记文字稿，可在微信公众号中&lt;strong&gt;直接回复「增长黑客」&lt;/strong&gt;四个字&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;&lt;p&gt;原文发布在微信公众号：&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MjM5NDQ3ODI3NQ==&amp;amp;mid=401859147&amp;amp;idx=1&amp;amp;sn=7b5747440737a2c9e523305c613e4472&amp;amp;scene=18#rd&quot;&gt;设计师的自我修炼&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/38140-74cda752a8b84ee7?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+			   <pubDate>Sun, 03 Jan 2016 00:00:00 +0800</pubDate>
+			   <link>http://zifeixu.com/growing-our-growth-team/</link>
+			   <guid isPermaLink="true">http://zifeixu.com/growing-our-growth-team/</guid>
+			   </item>
+		
+			<item>
 			   <title>设计类讲座总结分享</title>
 			   <description>&lt;p&gt;在2015年的12月里，我一共参加了五场讲座，整整四天时间，二十几位嘉宾的分享，有的好有的槽，有的发人深省，有的浪费时间，有的让我了解到陌生的领域，而有的加深了我对专业设计的理解......&lt;/p&gt;
 
@@ -746,115 +911,6 @@
 			   <pubDate>Sun, 13 Jul 2014 00:00:00 +0800</pubDate>
 			   <link>http://zifeixu.com/nozuonodienolife/</link>
 			   <guid isPermaLink="true">http://zifeixu.com/nozuonodienolife/</guid>
-			   </item>
-		
-			<item>
-			   <title>关于“无秘”APP的竞品分析</title>
-			   <description>&lt;blockquote&gt;&lt;p&gt;以下内容是一个产品课程的一次作业题目，现将自己的作业完整发布上来，希望和大家一起交流。如果感兴趣，你也可以先试着完成一下哦- ^_^&lt;/p&gt;
-
-&lt;p&gt;题目：现在有个App叫“无秘”（之前叫秘密）很火爆，大家试着分析：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;目标用户以及满足了什么核心需求（或者解决了什么问题）？&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;最核心的功能是什么？（1-3个，说明理由，按优先级排序）&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;总结其定位，在这个定位下有没有功能是冗余的。&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;梳理并画出核心流程，并列出流程中最重要的节点（1-3个，说明理由，按优先级排序）&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;如果现在你是无秘的PM，让你增加一个功能，你会增加什么功能，理由？（也可以是减去一个功能，或者修改一个功能，总之作为PM下一步你会怎么做）&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;*（选作题） 如果你现在是微信或者陌陌的PM，让你设计一个功能来想抢夺“无秘”的用户与流量，你会怎么做，理由？&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;p&gt;使用平台：Iphone 5C；APP：友秘；&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;h3&gt;1-1. 目标用户：&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/2014-07-09-img1.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3&gt;1-2. 解决了什么问题：&lt;/h3&gt;
-
-&lt;blockquote&gt;&lt;p&gt;从信息发布者角度：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;希望朋友能看到，但又不希望朋友知道是自己发的（带有社交关系链的匿名吐槽）&lt;/li&gt;
-&lt;li&gt;有地方可以发表不被社会舆论所认同的观点或经历，并且没有舆论风险&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;p&gt;从信息接受者角度：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;希望知道朋友的秘密或者心里的想法。（未解决问题：知道秘密是谁发的）&lt;/li&gt;
-&lt;li&gt;能了解到一些知名的人、事、物的八卦和内幕消息&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-
-&lt;h3&gt;2. 最核心的功能是什么？&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;匿名发布信息&lt;/strong&gt;：基础功能，如果按照版本迭代，这是第一个功能，让用户可以正常的使用&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;匹配手机通讯录，识别为朋友或者朋友的朋友&lt;/strong&gt;：一度人脉和二度人脉识别，二度人脉在软件初期推广中防止用户识别出好友身份起到了很大帮助，让用户在朋友较少时可以安心使用；一度人脉带入了很强的社交关系，从而使用户发布的消息可以匿名跟朋友产生互动，增加用户活跃度（微信只有一度人脉）&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;h3&gt;3. 总结其定位&lt;/h3&gt;
-
-&lt;p&gt;定位：看朋友的秘密 and 帮助人们在朋友圈里匿名发出自己内心的声音和不能公开对外发布的声音。&lt;/p&gt;
-
-&lt;h3&gt;4. 核心流程&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/2014-07-09-img2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;优先级1：&lt;/strong&gt;注册的时候使用手机号码，是为了可以匹配用户的手机通讯录，从而识别出朋友关系&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;优先级2：&lt;/strong&gt;评论时自动分配昵称和头像，并对同一秘密的同一个人回复使用相同的昵称；这样既保证了用户回复沟通的可识别性，又保障了不会泄露自己身份，让大家更自在的交流。评论这一点是无秘提升活跃的关键，包括公开的秘密只有朋友可以评论，但是所有人都能看到所有评论的这种设置&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;优先级3：&lt;/strong&gt;邀请朋友，几乎可以使用市面上所有的社交平台邀请，最赞的是可以使用匿名短信邀请。&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h3&gt;5. 无秘PM，增加功能&lt;/h3&gt;
-
-&lt;p&gt;【只看朋友】：无秘的用户量现在应该很大了，无秘有一种策略，是在一名用户的朋友较少的时候（timeline上朋友最近发布的秘密较少时也会出现），显示很多公开的秘密（非朋友），但是如果我这会儿只想看朋友的秘密，要花费的代价就高了，需要不停的往下拉动，还会被别的信息干扰。如果我是无秘的PM，我将会考虑在下一个版本中加入“只看朋友”（包括朋友的朋友）的功能作为测试。如果加入了这个功能，可以专注的看朋友的秘密，是不是也会激发我们自己发布新秘密的动力呢？&lt;/p&gt;
-
-&lt;p&gt;无秘启动时显示的slogan是：&quot;看朋友的秘密&quot;，定位清晰明确；那么过多的显示公开的陌生人的秘密，是否也稍有点违背了无秘的初心呢？微信做这么大，但最核心的功能还是朋友沟通，哪怕朋友圈这么火，摇一摇和扫一扫这么好用，但还是被微信放到切换页中显示的，这一点微信做得很棒，不忘初心。&lt;/p&gt;
-
-&lt;h3&gt;6-1. 微信PM，增加功能&lt;/h3&gt;
-
-&lt;p&gt;【隐身消息】：朋友圈里，长按相机键，发布文字消息的时候可以勾选“隐身消息”，即你发布的消息不会显示你的昵称和地理信息，系统自动为你显示一个头像和一个隐身专用的昵称（可以看出是隐身消息发出），但是仅限发布文字消息（作为测试功能，无秘的经验告诉我们图片并不是太重要，文字信息还是最主要；如果效果好再新增“隐身图文消息”）&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;隐身消息这个词来源于浏览器的“隐身标签页”，意思是指你隐身去发布了一条消息，恢复隐身后这条消息不可修改但可以删除，不会出现在你的相册中；你自己的评论会显示为楼主。这个功能解决的问题是：看朋友的秘密。&lt;/p&gt;
-
-&lt;p&gt;未解决的问题：不能看朋友的朋友的或者公开的秘密，仅限于查看自己朋友的秘密。&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;h3&gt;6-2. 陌陌PM，不建议争夺无秘用户和流量&lt;/h3&gt;
-
-&lt;p&gt;陌陌的定位是陌生人社交，其中基于LBS的交友和群组做得很不错。不过基于陌陌中的关系链都是弱关系，彼此之间可能是因为某个标签（地理或者兴趣等等）而连接在一起。大部分人都是没有见过面的，联系比较微弱，这个时候如果要做“看朋友的秘密”的话，可能带来的流量不是太高。&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;就比方说你会对你的同事和身边经常见面的朋友的秘密更感兴趣呢？还是对一个只在网上聊过甚至都没有见过的人的秘密感兴趣？&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;并且由于陌陌的APP已经做得足够复杂，对于一般的用户来说，功能已经很多了，如果再增加功能，势必往大而全方向发展，但是这样的方向在现在阶段已经慢慢被“无秘”这类小而精的定位击败。&lt;/p&gt;
-
-&lt;p&gt;所以不建议陌陌增加功能去抢夺无秘的用户流量，这样反而会得不偿失。&lt;/p&gt;
-</description>
-			   <pubDate>Wed, 09 Jul 2014 00:00:00 +0800</pubDate>
-			   <link>http://zifeixu.com/about-secret-app-personal-analysis/</link>
-			   <guid isPermaLink="true">http://zifeixu.com/about-secret-app-personal-analysis/</guid>
-			   </item>
-		
-			<item>
-			   <title>从Google去掉链接下划线说起交互</title>
-			   <description>&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/2014-04-02_%20google-to-remove-links-underlined-interactive-design.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;现在很多遗留的所谓“符合用户习惯”的交互设计，它们都有各自产生的背景和历史；是它们降低了人们使用互联网的门槛给人们带来了便利，为人们跨进网络新时代作出了重要的贡献。 但在如今已较为成熟的移动互联网时代，这些交互是否需要改进？是否可以做到更好呢？这是一个值得我们去思考的问题。&lt;/p&gt;
-
-&lt;p&gt;Windows ，几乎所有人第一次使用电脑用的都是windows操作系统&lt;a href=&quot;Apple%E6%89%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%8E%A8%E5%87%BA%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%85%AC%E5%8F%B8%EF%BC%8CWindows%E6%98%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%8E%B7%E5%BE%97%E5%B9%BF%E6%B3%9B%E6%8E%A8%E5%B9%BF%E7%9A%84%E5%9B%BE%E5%BD%A2%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F&quot;&gt;^1&lt;/a&gt;。 当我们学习怎样使用电脑的时候，使用的就是微软为我们制定好的“交互标准”，比如图标在桌面是从左侧开始排列的&lt;a href=&quot;%E8%BF%99%E9%87%8C%E6%9C%89%E4%B8%AA%E6%AE%B5%E5%AD%90%EF%BC%8C%E6%8D%AE%E8%AF%B4%E5%BD%93%E5%B9%B4Mac%E7%9A%84%E7%95%8C%E9%9D%A2%E7%B3%BB%E7%BB%9F%E5%85%88%E6%8E%A8%E5%87%BA%EF%BC%8C%E5%9B%BE%E6%A0%87%E6%98%AF%E9%BB%98%E8%AE%A4%E4%BB%8E%E5%8F%B3%E4%BE%A7%E5%BC%80%E5%A7%8B%E6%8E%92%E5%88%97%E7%9A%84%EF%BC%9B%E8%80%8CWindows%E5%81%9A%E7%9A%84%E6%97%B6%E5%80%99%E5%B0%B1%E6%8A%8A%E5%9B%BE%E6%A0%87%E5%BE%80%E5%B7%A6%E6%8E%92%E5%88%97%E4%BA%86%EF%BC%8C%E6%98%AF%E7%A0%94%E7%A9%B6%E5%87%BA%E6%9D%A5%E7%9A%84%E7%94%A8%E6%88%B7%E4%B9%A0%E6%83%AF%E5%91%A2%E8%BF%98%E6%98%AF%E5%85%B6%E4%BB%96%E5%8E%9F%E5%9B%A0%E5%B0%B1%E4%B8%8D%E5%BE%97%E8%80%8C%E7%9F%A5%E5%95%A6%E2%80%A6%E2%80%8B&quot;&gt;^2&lt;/a&gt;，软件界面的关闭等按钮是在右上角，软件的安装需要分几步包括选择安装路径等等。&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt; 这些东西在第一次进入我们脑海的时候就已经开始植入一个概念：电脑就应该是这样！互联网就应该是这样！ 人总是趋向于懒惰的，内心都有排斥改变的基因。 这个时候如果你换了一台Mac电脑，你才开始使用的时候一定会觉得很别扭：  这电脑怎么这么难用啊？ 不要担心，多年积累养成的习惯要去改变它，多少会有点让人不安。 这里我就说一个点：在Mac上安装软件不需要点击下一步，你只需要把下载的安装文件移动到“应用程序”这个目录里面，软件立刻就安装好可以使用了。 这里你看到下载的是一个文件，但它其实是一个“文件包”，软件所有相关的数据都在里面存储，所以如果你要删除软件也大可不必到控制面板里找删除程序了，而是直接到“应用程序”目录里删除这个软件的文件即可。  我不是攻城狮，所以也不知道从程序、系统、安全等专业方面如何去看待这个差异；但我从一个普通用户使用者的角度来看，很明显Mac的使用方便程度是要优于Winsows的。 好像说得有点远了，回到正题上再扯一句吧：  破旧立新，Apple顶住压力拥抱了变化，发布了iOS 7，这是我非常佩服的一点。因为他们知道，要打破以前的自己，不管曾经多么的辉煌！&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;**人生总是没有办法停止思考呀！  &lt;/p&gt;
-</description>
-			   <pubDate>Wed, 02 Apr 2014 00:00:00 +0800</pubDate>
-			   <link>http://zifeixu.com/google-to-remove-links-underlined-interactive-design/</link>
-			   <guid isPermaLink="true">http://zifeixu.com/google-to-remove-links-underlined-interactive-design/</guid>
 			   </item>
 		
 	</channel>
