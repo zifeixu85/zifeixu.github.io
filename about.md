@@ -18,6 +18,8 @@ title: 关于
 
 常用ID是“ *梓非徐* ”跟“ *zifeixu85* ”，既然互联网早已把我的XX扒光，那我也就不藏着掖着啦，希望不与人结怨，不被人肉和查户口。
 
+目前的工作是互联网产品的交互设计，暂居上海，公司在饿了么。
+
 ### 三、真相
 
 我本来想说：**会说会写会思考的人，才能做好的交互设计！** 但其实我就是想找个地方唠叨一下，希望诸君莫烦，切看切珍惜！
@@ -28,8 +30,6 @@ title: 关于
 >微博：[http://weibo.com/zifeixu](http://weibo.com/zifeixu)
 
 >知乎：[http://www.zhihu.com/people/zifeixu](http://www.zhihu.com/people/zifeixu)
-
->豆瓣：[http://www.douban.com/people/zifeixu85/](http://www.douban.com/people/zifeixu85/)
 
 >简书：[http://www.jianshu.com/users/f066330fc080](http://www.jianshu.com/users/f066330fc080)
 
