@@ -7,6 +7,105 @@
 		<atom:link href="http://zifeixu.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+			   <title>我是工具控(2) - 壁纸软件 Kuvva</title>
+			   <description>&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/kuvva%E9%A6%96%E9%A1%B5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;考虑到本文读者大部分是设计师朋友，就先给大家介绍一款 Mac 端桌面壁纸软件，希望给大家带来舒适美观体验的同时也能激发你的创作灵感。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/icon128.png&quot; alt=&quot;&quot; /&gt;
+Kuvva wallpapers | ¥30&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;说来惭愧，这款软件 2011 年已经发布，而我是最近才开始使用，因为以前一直将壁纸设置为纯色背景居多，所以这方面需求也不是太强烈，属于被动安利类工具。&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Kuvva wallpapers 的网址是 &lt;a href=&quot;https://www.kuvva.com&quot;&gt;kuvva.com&lt;/a&gt; ，图片来源自全球各地的设计师和艺术家们，主要以插画为主；所有图片均有版权（也在 &lt;a href=&quot;https://www.kuvva.com&quot;&gt;kuvva.com&lt;/a&gt; 上出售），所以只能将图片用作桌面壁纸（不可作其他用途），也不能下载到本地。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%206.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kuvva wallpapers 启动后常驻在 Menu Bar 上，功能非常简单（见图），其中壁纸来源可选择三项：Featured、Popular、Favorites&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/kuvva%E7%95%8C%E9%9D%A2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;在 kuvva.com 创建自己的账户，收藏的图片就可以同步到软件的 Favorites 中。&lt;/p&gt;
+
+&lt;p&gt;打开设置，可以选择自动更换壁纸的时间：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/kuvva%E8%AE%BE%E7%BD%AE.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我个人的使用习惯：花一点时间去网站收藏了一百多张图片（可以用很久了），对应的源选择了 Favorites，壁纸变更时间选择了 12 小时：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/Favorites%20%20%20Kuvva%202.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.kuvva.com/s/j9F0DY9KTAk&quot;&gt;查看我收藏的图片&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Kuvva 还有对应的 iPhone 版本，但不知为何在 11 月左右下架了，官方也暂未给出答复。&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;作为一款以内容为主的应用，Kuvva wallpapers 自 2014 年 1 月后就未再更新过，不过壁纸素材一直没有停止更新；目前的售价为 30 元人民币，历史上 2014 年 10 月曾经特价 18 元，目测很难再有冰点特价了，一杯咖啡的价钱，喜欢的朋友建议直接收下。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.kuvva.com/mac&quot;&gt;Kuvva 下载地址&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;同类软件推荐：&lt;/p&gt;
+
+&lt;h3&gt;Irvue - Unsplash Wallpapers | 免费&lt;/h3&gt;
+
+&lt;p&gt;壁纸全部来自免费高清图库 Unsplash，大多是摄影类作品，也是我之前一直使用的壁纸软件，特点是图片都是免费可商用的，可以下载到本地任意修改使用；不过因为随机切换的图片质量不可控（个人口味不符），所以改用 Kuvva。&lt;/p&gt;
+
+&lt;p&gt;注：此软件是第三方开发者使用 Unsplash 提供的 API 开发。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/irvue-unsplash-wallpapers/id1039633667&quot;&gt;Irvue 下载地址&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3&gt;Bing&lt;/h3&gt;
+
+&lt;p&gt;Bing 的壁纸质量也很高，不过目前没有比较成熟的 Mac 客户端，网络上有一些脚本可供使用（门槛过高了），如果你懂一些代码，可以去 github 自寻查找相关信息；如果你知道有好用的 Bing 壁纸软件，也希望推荐给我，谢谢。&lt;/p&gt;
+
+&lt;p&gt;访问地址：&lt;a href=&quot;bing.com/gallery&quot;&gt;bing.com/gallery&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;题图：@kuvva.com&lt;/p&gt;
+</description>
+			   <pubDate>Mon, 25 Jan 2016 00:00:00 +0800</pubDate>
+			   <link>http://zifeixu.com/kuvva/</link>
+			   <guid isPermaLink="true">http://zifeixu.com/kuvva/</guid>
+			   </item>
+		
+			<item>
+			   <title>我是工具控(1) - 开篇明义</title>
+			   <description>&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/barnimages_upload_32_800.jpg&quot; alt=&quot;&quot; /&gt;
+一直都喜欢折腾各类软件，设备上的「装机量」也是维持在一个较大数量（电脑维持 200+，手机维持 400+）；周边的朋友同事也认为我是一个“工具控”，现已普及到刚入职的新同事都会让我去“装一遍软件”……&lt;/p&gt;
+
+&lt;p&gt;其实，我一直认为自己不是一个“工具控”，而是在努力让自己去「控工具」；我并不是为了使用各种新奇或好玩的工具才去涉猎，也并不是什么工具都愿意花时间去研究评测；我愿意为之付出时间和精力的工具，有着自己的“个人口味”，在以下三种情况时，我会主动去涉猎相关软件，有时还会做一定的对比评测和研究学习：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;生产力工具，如 Sketch、Photoshop、Axure 等；&lt;/li&gt;
+&lt;li&gt;效率类工具，如 Moom、Manico、Alfred 等；&lt;/li&gt;
+&lt;li&gt;遇到问题，需要寻找工具去解决时，如：GIFMaker、Pivaxe、Dropzone 等；&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;其他类型的软件，我一般都是被动去接触和使用的，只是平时偶尔爱去浏览一些资讯类网站（sspai、Pinapps、jbguide 等），就慢慢的积攒了下来。&lt;/p&gt;
+
+&lt;p&gt;大家认为我对软件比较“懂”，还有一个很重要的原因，就是不管什么类型的软件，不管我有接触还是从未听过的软件，只要给我一点时间，我都可以找到相关的介绍、教程、下载方式甚至破解工具（关于盗版见本文底部声明）等等，其实说白了，是拥有较强的&lt;strong&gt;搜索信息的能力&lt;/strong&gt;；并且我自己也一直是个&lt;strong&gt;先自助，再求助&lt;/strong&gt;的人，所以大家很少看到我去问他们软件相关的问题，久而久之，这种莫测高深之感便不经意间流传开来。&lt;/p&gt;
+
+&lt;p&gt;对于效率类软件，我是有自己的一些积攒的经验想要跟大家分享，现在开始，我会不定期的分享自己使用过的软件工具，有些可能就是一个简单的介绍加推荐，有些可能会有较为详细的评测甚至录像，希望这些内容可以给大家带来一丁点的帮助。&lt;/p&gt;
+
+&lt;p&gt;我本人使用的系统，主要是 OS X 和 iOS（Macbook Pro、iPhone 和 iPad），所以介绍的软件也以这两个平台为主。&lt;/p&gt;
+
+&lt;p&gt;大部分软件，我个人秉承&lt;strong&gt;可用即可&lt;/strong&gt;不会去做过于深入的研究（比如横向对比和纵向深度使用），所以也许市面上还有其他更好的同类工具，或此工具还有更多的深入玩法，当然这方面的信息也欢迎给我留言告知，谢谢。&lt;/p&gt;
+
+&lt;p&gt;最重要的一点声明：&lt;strong&gt;本系列文章所介绍的所有收费软件，都是本人正规途径购得的正版软件。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;也希望大家尽量都能使用正版软件，也在此感谢所有的软件开发者朋友，是你们创建了一个如此好的软件生态环境，谢谢！&lt;/p&gt;
+</description>
+			   <pubDate>Mon, 25 Jan 2016 00:00:00 +0800</pubDate>
+			   <link>http://zifeixu.com/gongjukong/</link>
+			   <guid isPermaLink="true">http://zifeixu.com/gongjukong/</guid>
+			   </item>
+		
+			<item>
 			   <title>讲座笔记：携程 UED 产品与设计大会</title>
 			   <description>&lt;blockquote&gt;&lt;p&gt;携程的这个讲座已经是第三届，可以说一年不如一年，且票价两百多稍贵，目测基本都是公司组团报销来参加的；今年的场地在上海南站附近，位置尚好，但估计是票超卖太多了，好多人被迫站在场外；对我来说最有价值的内容还是下午的工作坊。&lt;/p&gt;&lt;/blockquote&gt;
 
@@ -785,132 +884,6 @@
 			   <pubDate>Sun, 30 Nov 2014 00:00:00 +0800</pubDate>
 			   <link>http://zifeixu.com/interaction-design-reflections/</link>
 			   <guid isPermaLink="true">http://zifeixu.com/interaction-design-reflections/</guid>
-			   </item>
-		
-			<item>
-			   <title>谈谈微信更新后优化的交互细节</title>
-			   <description>&lt;p&gt;8月14号微信又更新了，个人从非专业角度体验后，发现一些小小惊喜和变化，发出来仅供参考。&lt;/p&gt;
-
-&lt;p&gt;搜索和转账功能大家都在热议，我呢没有仔细体验，就先不写了，仅从一些交互的角度出发，说一说release note上没有说的点&lt;/p&gt;
-
-&lt;h3&gt;1.【钱包】界面的变化&lt;/h3&gt;
-
-&lt;p&gt;旧版的名称叫“我的钱包”，接着下面左侧是“钱包”，右侧是“转账”；再下面是九宫格显示，一共有13个入口，分两页显示（滑动翻页）&lt;/p&gt;
-
-&lt;p&gt;新版的名称直接叫“钱包”，接着下面的变成了左侧“转账”，右侧“钱包”；再下面的变成了12宫格，还是13个入口，分一页显示（下拉出现第13个）&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/2014-08-16-pei1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;关于12宫格的未来：以后随着微信平台型特性凸显，接入更多服务和应用，会不会引入更多的一级入口呢？如果用户需要拉动好几页才能看到所有入口，我想微信会再度折叠，提供更加便于切换的导航设计。&lt;/p&gt;
-
-&lt;p&gt;关于转账按钮：从这一次的升级slogan “转账，就是发消息” 可以看出微信把这一次的升级重点放在了转账上面，而从“钱包”界面的置放顺序可以看出：微信团队认为人们点击左侧按钮的行为（频率和习惯）更符合实际使用场景。&lt;/p&gt;
-
-&lt;p&gt;注意：得出这个结论，是我认为微信有很强大的用研和产品团队，对于这样一个亿级的APP来说，他的每一次公开升级都是经过了大量的用户调研测试反馈再修改等过程的，所以这种类型的APP变动，我们可以认为是带有一定的风向标作用的，如果中小型公司没有很多的资源去做调研，我认为在一定程度上是可以仔细研究这类APP，然后把一些结论套用过来的。（不过还是要看情况，微信的产品经理张小龙非常注重用户体验，所以在他的把关下微信一直欣欣向荣的发展着，如果是手机QQ等产品的话是否合适还是需要具体讨论的）&lt;/p&gt;
-
-&lt;h3&gt;2.朋友圈顶部出现提示【轻触此处回到顶部】&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/2014-08-16-pei2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;以前老听朋友说，点击顶部可以快速返回消息顶部，但我每次都没有成功，反而有时候手指不小心划过顶部的时候会莫名的返回顶部。但有心去操作的时候又总是失败……&lt;/p&gt;
-
-&lt;p&gt;这一次多了温馨提示，再点击顶部就很容易的回到顶端了。&lt;/p&gt;
-
-&lt;h3&gt;3.【群聊消息提醒】&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/2014-08-16-pei3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;现在人们加的微信群越来越多了吧？消息越来越看不过来了吧？&lt;/p&gt;
-
-&lt;p&gt;微信这一次加入了贴心功能，让你可以一次点击就去到第一条新消息的位置，让你可以不放过任何一条消息，并且不用一直向下滑动屏幕去翻到上次消息的末尾处了！&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;这个功能让我想到了众多的微博第三方手机客户端，当有新微薄的时候，有些APP是给你两种选择&lt;/p&gt;
-
-&lt;p&gt;第一种是刷新后显示最新的一条微博，然后你按照时间倒序的方式往下浏览更早时候的微博。这样的好处是你可以看到最新的微博（微博最开始主打时效，新闻的第一时间聚集地）缺点是你可能会错过更早时候的一些微博&lt;/p&gt;
-
-&lt;p&gt;第二种是刷新后显示当前微博的下一条，也就基本还是你之前看过的最后一条微博位置，只不过你可以往上翻，按照时间顺序浏览你未读的微博。好处是可以不错过内容；缺点也很明显，不能第一时间看到最新的微博&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;h3&gt;4.【公众号】入口的变化&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/2014-08-16-pei4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;微信这一次在通讯录中，把“订阅号”和“服务号”折叠进入一个“公众号”中了（听说开通了企业号功能，本人没有），并且在展示上做了很大的改变&lt;/p&gt;
-
-&lt;p&gt;图中可以看出，旧版里面所有公众号都是按照添加顺序排列的，左右翻页切换，每页显示15个（iphone5上），如果名字过长将被省略显示。&lt;/p&gt;
-
-&lt;p&gt;新版里面改成了类似于通讯录的形式，不再需要手指左右滑动，虽然号码多了要不停的上下滑动页面，但是字母索引的加入让你可以很方便的找到你需要的账号；还有顶部强大搜索功能的加入，让你再也不用为了寻找公众号而烦恼了。&lt;/p&gt;
-
-&lt;p&gt;这一个改进确实很赞，我本人关注了非常多的微信号，经常为了寻找一个账号的某一篇历史文章，而使劲的左右翻页。而且有的名字被折叠，也造成了一些困扰。&lt;/p&gt;
-
-&lt;p&gt;预测：在微信消息界面，不久的将来“服务号”也将跟“订阅号”折叠在一起成为“公众号”？&lt;/p&gt;
-
-&lt;h3&gt;5.通讯类的【标签】分组&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/2014-08-16-pei5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;通讯录终于增强了管理功能！这一次新增了“标签”的分组功能，可以把带有共同标签的一类人加入到同一个“标签”里面了。&lt;/p&gt;
-
-&lt;p&gt;你说为什么不叫通讯录分组功能呢？传统的通讯录分组，只能把一个人加入到一个群组里面，而比如这个人既是你的家人（爱人）又是你的同事，你要把Ta放在哪个分组里呢？&lt;/p&gt;
-
-&lt;p&gt;“标签”功能就很人性化了，顾名思义我们对每个人都有打上不同的标签，可以是朋友家人同学，也可以是高富帅、白富美，更可以是女汉子、萌妹子、讨厌的人、追我的人、上海的、35岁以上的、YP的……等等等等。只要你能打上的标签，都可以单独设立一个分组，这样是不是更直接明白呢？&lt;/p&gt;
-
-&lt;p&gt;加入分组功能的必要性还有一个重要的原因，就是微信好友里有越来越多的陌生人。很多人初次见面就加了微信，但是从不聊天，过一段时间就不再记得这人是谁了。现在加上标签分组，是不是可以比较方便的回忆了解这个人，是在什么活动或者场景下认识的呢？&lt;/p&gt;
-
-&lt;p&gt;（目前测试这里的“标签”分组跟朋友圈发图时的“可见范围”分组还是分开的，目测将来有可能合并？）&lt;/p&gt;
-
-&lt;h3&gt;6.【群聊消息免打扰】&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/2014-08-16-pei6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;这是以前就有的一个功能，点开群聊的设置，有一项叫做“新消息通知”（旧版）的选项，默认是on状态（截图错了-囧...）&lt;/p&gt;
-
-&lt;p&gt;新版的把名字改了叫“消息免打扰”，默认是off状态&lt;/p&gt;
-
-&lt;p&gt;第一个点是在微信的设置里面，有一个“功能消息免打扰”功能，这里出现了“消息免打扰”几个字，所以这次升级的更改可能是为了统一称谓&lt;/p&gt;
-
-&lt;p&gt;第二个点，就是从交互考虑，建群后应该是要默认有消息通知的，而这个默认设置，应该跟其他的默认选项保持一致的显示效果（图中可见默认的都是off）；当你判定这个群暂时不用消息通知时，在进行操作后，就能有别于其他的“默认设置”（消息免打扰=on）&lt;/p&gt;
-
-&lt;p&gt;这一次更新还有很多其他强大的升级，比如增加了强大的搜索功能等，太热门的我这里就不多说了，网上有很多前辈们的分析。&lt;/p&gt;
-
-&lt;p&gt;只是从个人角度粗略的聊了一下，如果有不对的地方，或者还有其他没有发现的细节，请一定告诉我，感谢阅读。&lt;/p&gt;
-</description>
-			   <pubDate>Sat, 16 Aug 2014 00:00:00 +0800</pubDate>
-			   <link>http://zifeixu.com/wechat-update-interaction-details/</link>
-			   <guid isPermaLink="true">http://zifeixu.com/wechat-update-interaction-details/</guid>
-			   </item>
-		
-			<item>
-			   <title>我们的生活态度《不作不会活》</title>
-			   <description>&lt;p&gt;在我小时候生活的那个小镇子，随处都可以看到人力踩踏的三轮车；在我们小区门口有一个茅坑，时常可以见到有专人过来挑粪。&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;那个时候我就在想，人一辈子有太多的可能性了，如果有可能，将来长大后，我也想去拉一拉三轮车，当一把挑粪工人！&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;曾经有朋友问我：&lt;strong&gt;你怎么这么喜欢看电影啊？&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;是啊，我喜欢看电影，而且我喜欢沉浸到电影中，把自己当做其中的人物，去体验他们的生活，他们的酸甜苦辣。&lt;/p&gt;
-
-&lt;p&gt;我想要尝试、想要去体验不同的生活，想要看到不同的景色，想要体会不一样的情感。现实生活中我努力去经历去尝试去探索，而电影世界里我也跟着主人公去体验去经历去探索。&lt;/p&gt;
-
-&lt;h4&gt;《不作不会活》&lt;/h4&gt;
-
-&lt;p&gt;介绍一下这里推荐的这个演讲视频，这是一档电视选秀节目《超级演说家》第二季的决赛，演讲题目是《不作不会活》，演讲者叫刘媛媛，目前是北京大学法律系研一新生。&lt;/p&gt;
-
-&lt;p&gt;这里摘抄一些语录，方便读者了解视频的大概内容，最下面是演讲视频：&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;其实大部分的年轻人，都根本不知道自己想要什么。&lt;/p&gt;
-
-&lt;p&gt;我根本不知道自己将来想要什么样的生活，去哪个城市？做什么工作？ 我只是知道自己不想要什么，不想要那种循规蹈矩、安安分分的平平淡淡的日子；不想要一个一眼就可以看到死的那种人生。&lt;/p&gt;
-
-&lt;p&gt;这个世界那么大，那么精彩，你什么都还没看到过的时候，就甘心的待在一个格子里面，循规蹈矩安分守己的生活，这样的生活没有任何的风险，也不会被别人嘲笑，但是我总觉得呀：&lt;/p&gt;
-
-&lt;p&gt;一个没有把百酒都尝遍的人，他是不大懂得清水之味的；一个一辈子都安分守己不敢“作”的人，他从来也不曾拥有一个，真正真正丰富的人生！&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;视频地址：&lt;/p&gt;
-
-&lt;p&gt;&lt;embed src=&quot;http://static.video.qq.com/TPout.swf?vid=b0140ntahi7&amp;auto=0&quot; allowFullScreen=&quot;true&quot; quality=&quot;high&quot; width=&quot;480&quot; height=&quot;400&quot; align=&quot;middle&quot; allowScriptAccess=&quot;always&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;/embed&gt;&lt;/p&gt;
-</description>
-			   <pubDate>Sun, 13 Jul 2014 00:00:00 +0800</pubDate>
-			   <link>http://zifeixu.com/nozuonodienolife/</link>
-			   <guid isPermaLink="true">http://zifeixu.com/nozuonodienolife/</guid>
 			   </item>
 		
 	</channel>
