@@ -46,8 +46,9 @@ a {
   outline:none;
 }
 a:hover {
-  text-decoration:none;
-  outline: 0;
+	color: #428bd1;
+	text-decoration:underline;
+	outline: 0;
 }
 
 html {
@@ -108,6 +109,9 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 0.6rem;
   margin-bottom: 4rem;
   border-bottom: 1px solid #eee;
+}
+.masthead a{
+	text-decoration: none;
 }
 .masthead-title {
   margin-top: 10px;
@@ -341,6 +345,10 @@ a.sidebar-nav-item:focus {
   padding-bottom: 2rem;
   border-top: 1px solid #eee;
 }
+.related a{
+	text-decoration: none;
+	color: #555555;
+}
 .related-posts {
   padding-left: 0;
   list-style: none;
@@ -451,7 +459,6 @@ a.pagination-item:hover {
 .theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #22A7F0;
 }
-.theme-base-08 .container a,
 .theme-base-08 .sidebar-toggle {color: #555}
 .theme-base-08 .container a:hover,
 .theme-base-08 .related-posts li a:hover {

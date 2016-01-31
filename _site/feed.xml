@@ -7,6 +7,180 @@
 		<atom:link href="http://zifeixu.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+			   <title>我是工具控(3) - 浅谈 Mac 和 iOS 端的护眼策略</title>
+			   <description>&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/0.%E5%B0%81%E9%9D%A2_flux.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;现如今，我们花费越来越多的时间面对电脑和手机，首先要发出抗议的恐怕就是我们的眼睛了，今天我跟大家分享一下如何保护眼睛并让我们的数码设备对眼睛更「亲近」。&lt;/p&gt;
+
+&lt;p&gt;本文会从以下四个方面分享：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;如何缓解眼睛疲劳&lt;/li&gt;
+&lt;li&gt;在电脑上保护眼睛：f.lux&lt;/li&gt;
+&lt;li&gt;在手机上保护眼睛：Night Shift&lt;/li&gt;
+&lt;li&gt;iOS 进阶「夜间模式」开启技巧&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;正文：&lt;/p&gt;
+
+&lt;h2&gt;一、如何缓解眼睛疲劳&lt;/h2&gt;
+
+&lt;p&gt;长时间面对电脑，难免会让人眼睛干涩不舒服，我个人的解决办法是：眼保健操。对，就是小学时候我们每天都要做的眼保健操；眼保健操的使用也有两点是需要我们注意的：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;一定要保证卫生，&lt;strong&gt;洗手&lt;/strong&gt;是必须的；&lt;/li&gt;
+&lt;li&gt;不要过于用力，&lt;strong&gt;轻柔&lt;/strong&gt;舒缓的动作为佳；&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;如果有条件远眺或者看一看绿色植物，甚至走动一下，让眼睛远离电脑去接触不同的事物也是很好的办法。&lt;/p&gt;
+
+&lt;h2&gt;二、在电脑上保护眼睛：f.lux&lt;/h2&gt;
+
+&lt;p&gt;f.lux 是一款调节屏幕色温的软件，它根据你所在地理位置的日出日落时间来计算你的环境光照强度，进而自动调节为最舒适的屏幕色温从而达到保护眼睛的效果。&lt;/p&gt;
+
+&lt;p&gt;我们知道 Macbook 在使用的时候是可以根据环境光线强弱来自动调节屏幕亮度的，那么 f.lux 是不是也是一样的功能呢？不一样，f.lux 改变的是屏幕色温，它并不改变亮度；而且 f.lux 不会识别环境光的变化来改变色温，它只会根据当地时间变化来调节色温。&lt;/p&gt;
+
+&lt;p&gt;f.lux 是一款免费软件，它支持众多平台（Mac OS X、Windows、Linux、iOS），使用时常驻后台并占用很少的系统资源，下面是软件的主设置界面：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/1.flux%E7%95%8C%E9%9D%A2%20.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;顶部是设置当前色温强度的滑块，滑动滑块时可以直观的体验不同色温的差异，右上角是四种模式选择：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/2.%E6%A8%A1%E5%BC%8F%E8%AE%BE%E7%BD%AE%20.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;其中三种是系统预设的设置，当我们任意滑动滑块的时候，将自动切换为「Custom colors」，而起床时间也将决定日光时间的长短，下面是简单的操作演示：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/3.flux%E8%AE%BE%E7%BD%AE.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;下方的定位设置，打开软件后会默认定位当前位置，如若出差到有时差的国家，点击下图左侧 icon 即可重新定位：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/flux_4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;通过 &lt;a href=&quot;https://fluxometer.com/rainbow/&quot;&gt;f.lux 提供的工具&lt;/a&gt; 测试在不同色温下的屏幕表现，观察网页背景色的变化：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/5.%206500k.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/6.%205000k.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/7.%204100k.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/8.%203400k.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/9.%202700k.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/10.%202300k.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;一般显示器的默认色温是 6500K，其他色温参考（此为 Mac 跟 iOS 默认色温值）：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Candle（蜡烛）: 2300K&lt;/li&gt;
+&lt;li&gt;Tungsten（白炽灯）: 2700K&lt;/li&gt;
+&lt;li&gt;Halogen（卤素灯）: 3400K&lt;/li&gt;
+&lt;li&gt;Fluorescent（荧光灯）: 4200K&lt;/li&gt;
+&lt;li&gt;Daylight（日光）: 5000K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;从图中可以看出有一条色带是有显著变化的，这就是蓝光（Blue Light），f.lux 介绍的一些研究表明，蓝光在白天对我们是有益的，但在夜晚时会对睡眠质量产生负面影响，而 f.lux 调整色温的变化，核心也就是降低蓝光在不同环境光下的强度。&lt;/p&gt;
+
+&lt;p&gt;从图中还可以看出色温的变化对其他颜色的影响很小，所以平时使用并不会影响我们对色彩的正常判断，比如混淆 K线 中的红色跟绿色等。&lt;/p&gt;
+
+&lt;p&gt;为满足特殊场景的需要，f.lux 提供了三种色彩模式可供选择：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;摄影爱好者使用的「暗房模式」&lt;/li&gt;
+&lt;li&gt;观看电影使用的「电影模式」（可维持 2.5 小时）&lt;/li&gt;
+&lt;li&gt;夜间使用电脑的「OS X 暗色主题」&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/flux_11.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;设计师朋友也不用担心，如果需要进行依赖色彩的设计的时候，f.lux 也提供了如「禁用一小时」等几项禁用功能：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/flux_12.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;f.lux 还有几项设置选项，大家可按需设置：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/flux_13.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;题外话：有的时候，同事来到我电脑跟前都会说你的屏幕怎么这么暗这么黄，看着真不习惯。是的，从正常屏幕色温一下子切换到「黄色屏幕」，眼睛是肯定习惯不了的，f.lux 的色温调节是平滑过渡的，让你朋友从白天开始使用两天，相信他就能适应这种变化了。&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;f.lux 支持 iOS 系统，但因为某些原因你并不能从 App Store 中下载到它，目前&lt;strong&gt;只能在越狱的手机上使用&lt;/strong&gt;，但不建议你为了使用此功能而去越狱，因为 iOS 9.3 版本中也加入了相应的功能，下面为大家作简单介绍。&lt;/p&gt;
+
+&lt;h2&gt;三、在手机上保护眼睛：Night Shift&lt;/h2&gt;
+
+&lt;p&gt;iOS 9.3 版本已经加入了 Night Shift 功能，目前已经可以通过 &lt;a href=&quot;https://beta.apple.com/sp/zh/betaprogram/&quot;&gt;使用 Beta 版&lt;/a&gt; 来尝鲜了，下面是官网的介绍：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/flux_14.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;具体位置和设置如下图：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/flux_15.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;在滑动滑块时屏幕颜色会在冷暖色中间切换，但因录屏软件限制此 gif 中并无此效果。&lt;/p&gt;
+
+&lt;p&gt;最新的 iOS 9.3 Beta 2 版本中，已将「Night Shift」功能加入到控制中心，白天也可以快速切换到此模式了：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/16.night-shift-%E5%BF%AB%E6%8D%B7.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;iOS 9.3 的正式版本相信不久后就可以升级使用了，下面再给大家介绍一个小技巧，只要是 iOS 设备都可以使用，虽然不能达到降低色温的效果，但可以让你的屏幕亮度瞬间变暗，间接达到「夜间模式」的效果。&lt;/p&gt;
+
+&lt;h2&gt;四、iOS 进阶「夜间模式」开启技巧&lt;/h2&gt;
+
+&lt;p&gt;有朋友说我没有升级到 iOS 9.3，也有朋友说我不喜欢暖黄色的屏幕，还有朋友说我把屏幕亮度调到最低了，但在被窝里仍然感觉太亮了，怎么办啊？&lt;/p&gt;
+
+&lt;p&gt;现在给大家带来一个小技巧，可以在最低亮度时候，再次将亮度下降一个等级。&lt;/p&gt;
+
+&lt;p&gt;打开 iOS 的「缩放」功能，操作见下图：&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;设置 → 通用 → 辅助功能 → 缩放&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/15.%E6%89%93%E5%BC%80%E7%BC%A9%E6%94%BE.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;关键点：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;缩放区域：&lt;strong&gt;全屏幕缩放&lt;/strong&gt;；&lt;/li&gt;
+&lt;li&gt;缩放过滤器：&lt;strong&gt;弱光&lt;/strong&gt;；&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;注意：打开缩放后屏幕会变大，这时候需要用三指双击屏幕，即可恢复正常大小（因录屏软件限制，此效果未在录屏动画中体现）&lt;/p&gt;
+
+&lt;p&gt;打开后还没有结束，我们不可能每次都要进入这么深的设置中去打开/关闭，所以还需要设置一下快捷键：&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;通用 → 辅助功能 → 辅助功能快捷键 → 缩放&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/17.%E7%BC%A9%E6%94%BE%E5%BF%AB%E6%8D%B7%E9%94%AE.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我们已经把「夜间模式」的快捷键设置为「连按三次主屏幕按钮」，在任意界面下，只要连击三次 Home 键即可打开或关闭「夜间模式」，下面我们看看此「夜间模式」的效果如何：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/18.%E5%A4%9C%E9%97%B4%E6%A8%A1%E5%BC%8F%E6%95%88%E6%9E%9C.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;相关链接&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://justgetflux.com&quot;&gt;f.lux 官方网站&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://justgetflux.com/research.html&quot;&gt;蓝光的相关研究&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.apple.com/cn/ios/preview/&quot;&gt;iOS 9.3 预览&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;本期的 #我是工具控# 一共分享了四个内容，希望对你有所帮助。&lt;/p&gt;
+
+&lt;p&gt;如果你有其他保护眼睛的软件或方法，欢迎给我留言，谢谢你的阅读 : )&lt;/p&gt;
+</description>
+			   <pubDate>Sun, 31 Jan 2016 00:00:00 +0800</pubDate>
+			   <link>http://zifeixu.com/night-mode/</link>
+			   <guid isPermaLink="true">http://zifeixu.com/night-mode/</guid>
+			   </item>
+		
+			<item>
 			   <title>我是工具控(2) - 壁纸软件 Kuvva</title>
 			   <description>&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/kuvva%E9%A6%96%E9%A1%B5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -802,88 +976,6 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 			   <pubDate>Sat, 28 Feb 2015 00:00:00 +0800</pubDate>
 			   <link>http://zifeixu.com/about-me-for-2014/</link>
 			   <guid isPermaLink="true">http://zifeixu.com/about-me-for-2014/</guid>
-			   </item>
-		
-			<item>
-			   <title>交互从业两月后的一点思考</title>
-			   <description>&lt;p&gt;从想要做交互设计到现在已经过去一年多时间；真正开始做交互设计，也算过去大半年时间了。真的发现这条要走的路还很长很长，而自己，不过才刚刚上路。&lt;/p&gt;
-
-&lt;p&gt;换到新公司来已经两个月了，是时候给自己一个小小的总结思考。人生要走对的方向，要不停的向前走，更要停下来思考人生啦 :P&lt;/p&gt;
-
-&lt;p&gt;结合自己最近的经历，有以下几点感触，不是干货，只是结合自己的情况的总结而已，并且很多东西自己才开始做，所以效果如何不做保证&lt;/p&gt;
-
-&lt;h3&gt;一、功夫在诗外&lt;/h3&gt;
-
-&lt;blockquote&gt;&lt;p&gt;汝果欲学诗，功夫在诗外&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/2014-11-30-interaction-design-reflections.PNG&quot; title=&quot;冰山&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;以前从来没觉得这话是这么的有道理，对-没错，以前的我从来没注重积累自己，以至于现在的我就像一个空壳一般的无知。&lt;/p&gt;
-
-&lt;p&gt;如果仅仅在自己的职业方向上不断的积累、学习、成长，我相信是可以成为一个满足老板期待的员工，但是不太可能成为这一行业的Master。很多事情都是有相通性的，你需要有其他领域的积累或视野，你才能够做出超出别人期待的作品来&lt;/p&gt;
-
-&lt;p&gt;就我自己而言，坦白的说，自己的情商应该属于较低的那类型，如果非要深挖历史原因，我觉得很大程度上与自己读书太少有不可脱离的关系。生活中，我也遇见过不少读书多的有丰富内涵的人，你跟他们聊天时就能体会到与常人的不同。他们往往能够说出一语中的的言辞，道出别人不明所以的谜底，用无数个场景故事来说服你；甚至与他们聊天你都能发现话题层出不穷，永远不会出现冷场的尴尬场景……&lt;/p&gt;
-
-&lt;p&gt;读书多，不一定能成为优秀的人，毕竟书也分优劣，这里只是举一个例子；那么还有什么是跟多读书类似的呢？私以为以下几类都算：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;到不同地方去旅行&lt;/li&gt;
-&lt;li&gt;跟不同的人交流&lt;/li&gt;
-&lt;li&gt;学习不同的语言了解他们的历史文化&lt;/li&gt;
-&lt;li&gt;参与不同的工作项目&lt;/li&gt;
-&lt;li&gt;……&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;其实多去看、多去听、多去经历，都可以增长自己的视野，这些都是一份工作职位上不可能带给你的“诗外”的成长。&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;为什么单单拿读书说事？因为这可是我们成本最低的最容易获取的方式啊&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;h3&gt;二、沉浸到项目中&lt;/h3&gt;
-
-&lt;p&gt;到具体的项目中去学习去思考，也是非常重要的，并且你要把自己沉浸到项目中。&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;h4&gt;什么叫沉浸？就是深入的沉迷下去!&lt;/h4&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;比如今天要做一个收藏的功能，也许我们去看看竞品，研究一下市场上最热门最优秀的APP，就能找到很多方式杂糅出一个“收藏”的feature。&lt;/p&gt;
-
-&lt;p&gt;但这远远不够！&lt;/p&gt;
-
-&lt;p&gt;沉浸就是我们会去思考对方为什么这样做，我们会去更加深入的研究，它们为什么要放收藏？是给什么人使用的？为什么要放在这个位置？还有其他地方有入口吗？我身边的朋友使用收藏功能的多吗？&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;再深入一点呢？&lt;/strong&gt;—— 人们为什么会收藏？有其他方式可以满足这种需求吗？有哪些地方的收藏跟传统的收藏不一样？它们为什么这么设计？跟收藏类似的在人们生活中的现象是什么？这个现象有什么样的历史？人们从什么时候开始使用“收藏”？&lt;/p&gt;
-
-&lt;p&gt;……&lt;/p&gt;
-
-&lt;p&gt;我承认，这个过程真的很痛苦，你在一开始会发现脑子里完全想不出来，没有一点头绪。但是慢慢的你开始可以想出来一点东西，到最后你可能会想出来更多的东西；就这样慢慢的从你脑子里出来的东西才是真正在沉浸中得到的最好的东西。&lt;/p&gt;
-
-&lt;p&gt;也许这些东西在你才开始思考的时候，很不成熟，甚至很幼稚，但是都不要紧，这些东西会在你的脑海里慢慢的丰满起来，如果你把这些东西记下来，过一两年，再去看看，你一定能看到这些东西羽翼渐丰的整个过程。（到时候自己都会吃惊吧？）&lt;/p&gt;
-
-&lt;h3&gt;三、不要忘记走捷径&lt;/h3&gt;
-
-&lt;p&gt;这里的“捷径”不是真正的捷径，而是让你不要仅仅沉浸到自己的思考中。&lt;/p&gt;
-
-&lt;p&gt;每个人的成长环境接受的教育程度和遇见的人事物都不一样，这也导致了每个人的思维模式和思考产出的不同。&lt;/p&gt;
-
-&lt;p&gt;上面说了要沉浸到项目中，这里则是要我们去接收不一样的思考。最直接的建议就是阅读各个UED团队的Blog和一些喜欢思考的人们的分享。&lt;/p&gt;
-
-&lt;p&gt;每个人的时间都是有限的，我们没有办法参与每一个项目，没有办法把思考的维度延生到每一个节点。但是做其他项目的人也有思考，也有他们的总结。所以不要忘记走“捷径”，去看看别人的思考，看看别人的总结，这可以极大的丰富我们的角度。但不要忘记了经过自己的判断思考再吸收，就好比书有优劣一样，别人的思考也有优劣，学会辨识好的也是一种很重要的能力。&lt;/p&gt;
-
-&lt;h3&gt;四、制作自己的Checklist&lt;/h3&gt;
-
-&lt;p&gt;最近的几个项目，我自己拿出去的东西都让别人不是太满意，大家可以从不同的角度挑出不同的问题点。有些问题在前一个项目里有想到的并且避免了，但是在另一个项目里却出现了问题，没有思考到这个角度。&lt;/p&gt;
-
-&lt;p&gt;这也是为什么我想制作自己的Checklist。&lt;/p&gt;
-
-&lt;p&gt;我自己的脑子不大灵光，不是所有时候都能从不同的比较全面的角度去完善自己的作品；但是我可以把每一次项目里自己想到的点子记下来，把别人提出的自己没有想到的点子也记下来，慢慢的完善这样一份Checklist。这样在下一个项目的时候，我可以按照Checklist里的内容比较完善的去review自己的产出。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;以上几点其实是今天才总结出来，所以一些具体的细节，到现在我自己也才开始去真正的执行，以后也许会有更深的感触进而来推翻今天的结论都未可知。不过也真希望自己能够不断的推翻自己的结论啊 ^_^&lt;/p&gt;
-</description>
-			   <pubDate>Sun, 30 Nov 2014 00:00:00 +0800</pubDate>
-			   <link>http://zifeixu.com/interaction-design-reflections/</link>
-			   <guid isPermaLink="true">http://zifeixu.com/interaction-design-reflections/</guid>
 			   </item>
 		
 	</channel>
