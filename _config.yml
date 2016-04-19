@@ -1,6 +1,9 @@
 # Dependencies
-markdown:         rdiscount
-highlighter:      pygments
+markdown: kramdown
+kramdown:
+    input: GFM
+highlighter:      rouge
+gems: [jekyll-paginate]
 
 # Permalinks
 permalink:        /:title/

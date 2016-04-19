@@ -8,7 +8,7 @@
 		
 			<item>
 			   <title>建立自己的原则 - 为他人喝彩</title>
-			   <description>&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/for-others-cheer.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+			   <description>&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/for-others-cheer2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;我们常说「这个人是很有原则的人」，是指这个人做某一类事或某一个判断的时候，是有一定的准则或规律的，有原则并不一定都是好事，但它让我们在难以抉择的时候能有一个清晰的方向，让我们在被当前环境“蒙蔽”的时候还能够坚持心中的判断，所以很多时候，我们更喜欢带有一些原则的人。&lt;/p&gt;
 
@@ -51,31 +51,44 @@
 			   <title>一份问答，关于工具类文章投稿</title>
 			   <description>&lt;p&gt;近期我开始分享自己使用的软件和工具，并且尝试将此类文章投稿到相关的平台，下面是针对某一个平台提出问题的回答，贴过来做一个简单记录。&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;为避免广告嫌疑，统一将平台名称用 xxx 代替。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;为避免广告嫌疑，统一将平台名称用 xxx 代替。&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;hr /&gt;
 
-&lt;h3&gt;1. 你为什么想来 xxx 写稿？&lt;/h3&gt;
+&lt;h3 id=&quot;xxx-&quot;&gt;1. 你为什么想来 xxx 写稿？&lt;/h3&gt;
 
 &lt;p&gt;我想找一个平台分享自己关于效率工具的使用心得，而 xxx 是我一直关注并获益良多的地方，所以想在这里开始自己的分享，也希望能够给大家带来收获的同时可以反哺自己的成长。&lt;/p&gt;
 
-&lt;h3&gt;2. 你希望通过在 xxx 写稿得到什么？&lt;/h3&gt;
+&lt;h3 id=&quot;xxx--1&quot;&gt;2. 你希望通过在 xxx 写稿得到什么？&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;把兴趣变成爱好，再变成擅长的领域&lt;/strong&gt;：我一直对「效率」有着自己的追求，包括工具的使用和方法论的运用，但长久以来都没有过于深入的研究，很多时候都是浅尝则止；直到前几天开始写文章介绍自己使用的工具，在这个梳理分享的过程中，不仅让自己去探索研究学到了很多新东西，也加深了我对工具的理解；所以就像设计一样，我想在自己的这项兴趣爱好里有更深入的钻研；&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;分享和教是更好的学&lt;/strong&gt;：很多时候我们以为自己清楚了，但其实并不清楚，最明显的特征就是你说不清楚，写不出来，教不会人。所以也希望在 xxx 写稿能够强化自己的认知和实际运用。&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;想得到其他作者和读者的反馈&lt;/strong&gt;：我并不想闭门造车，「写一篇文章并发表」仅仅是个开端，还要有跟读者的反馈互动，借此补足自己认知和信息上的不足，也借此验证自己的理论和假设是否经得住推敲；&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;锻炼文笔也是一个目的&lt;/strong&gt;，不过相较于上面几条就微不足道了：如果对工具理解透彻，对方法运用娴熟，那么写出来的东西都不会太差的。&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;结交同好&lt;/strong&gt;：我想在 xxx 这个平台里认识更多伙伴，跟大家进行更多更深入的交流学习。&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;眼红 xxx 作者的福利&lt;/strong&gt;：没错，看了作者招募页面的福利，说不心动那是假的，哈哈&lt;/p&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;把兴趣变成爱好，再变成擅长的领域&lt;/strong&gt;：我一直对「效率」有着自己的追求，包括工具的使用和方法论的运用，但长久以来都没有过于深入的研究，很多时候都是浅尝则止；直到前几天开始写文章介绍自己使用的工具，在这个梳理分享的过程中，不仅让自己去探索研究学到了很多新东西，也加深了我对工具的理解；所以就像设计一样，我想在自己的这项兴趣爱好里有更深入的钻研；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;分享和教是更好的学&lt;/strong&gt;：很多时候我们以为自己清楚了，但其实并不清楚，最明显的特征就是你说不清楚，写不出来，教不会人。所以也希望在 xxx 写稿能够强化自己的认知和实际运用。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;想得到其他作者和读者的反馈&lt;/strong&gt;：我并不想闭门造车，「写一篇文章并发表」仅仅是个开端，还要有跟读者的反馈互动，借此补足自己认知和信息上的不足，也借此验证自己的理论和假设是否经得住推敲；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;锻炼文笔也是一个目的&lt;/strong&gt;，不过相较于上面几条就微不足道了：如果对工具理解透彻，对方法运用娴熟，那么写出来的东西都不会太差的。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;结交同好&lt;/strong&gt;：我想在 xxx 这个平台里认识更多伙伴，跟大家进行更多更深入的交流学习。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;眼红 xxx 作者的福利&lt;/strong&gt;：没错，看了作者招募页面的福利，说不心动那是假的，哈哈&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h3&gt;3. 是否接受我们给你指派写作素材？&lt;/h3&gt;
+&lt;h3 id=&quot;section&quot;&gt;3. 是否接受我们给你指派写作素材？&lt;/h3&gt;
 
 &lt;p&gt;接受指派素材；选题方面，希望自己写作的东西是帮助大家提升工作效率，提高生活品质的；游戏方面因为时间问题，玩得很少；娱乐方面也少有涉猎。&lt;/p&gt;
 
-&lt;h3&gt;4. 有其他擅长写作的领域吗？说说你对「如何选择和利用工具」的看法。&lt;/h3&gt;
+&lt;h3 id=&quot;section-1&quot;&gt;4. 有其他擅长写作的领域吗？说说你对「如何选择和利用工具」的看法。&lt;/h3&gt;
 
 &lt;p&gt;擅长说不上，但我自己对效率类工具和生产力软件有一些自己的使用心得，也会在工作习惯、方式方法上对自己进行改造和提升；看了作者招募页面的说明，应该属于「&lt;strong&gt;应用推荐、评测&lt;/strong&gt;」和「&lt;strong&gt;观点、技巧、教程&lt;/strong&gt;」方面。&lt;/p&gt;
 
@@ -83,7 +96,7 @@
 
 &lt;p&gt;如何利用工具：① 找到适合的工具后，慢慢的纠正以前的使用习惯，告诉自己现在有了更好的工具，坚持几天后就可以形成使用习惯了；② 但如果使用一段时间后发现不合适，还是要去找原因并做调整，要么是加深对工具的理解，寻找更好的使用方法，要么是换成同类的其他软件试试；③ 不要看到别人推荐新奇的工具，就给自己创造“伪”需求去使用，要学会自己&lt;strong&gt;判断&lt;/strong&gt;，不要被工具牵着鼻子走，工具是为了解决实际问题，与其花时间在“花拳绣腿”上，不如去打磨自己的硬技能。&lt;/p&gt;
 
-&lt;h3&gt;5. 想看看你的主屏，然后举例说几个你最喜欢的 App，以及你喜欢它的地方。&lt;/h3&gt;
+&lt;h3 id=&quot;app&quot;&gt;5. 想看看你的主屏，然后举例说几个你最喜欢的 App，以及你喜欢它的地方。&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://7bv9u5.com1.z0.glb.clouddn.com/1212221111.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -104,6 +117,7 @@
 &lt;hr /&gt;
 
 &lt;p&gt;完。&lt;/p&gt;
+
 </description>
 			   <pubDate>Sun, 07 Feb 2016 00:00:00 +0800</pubDate>
 			   <link>http://zifeixu.com/submit/</link>
@@ -112,35 +126,33 @@
 		
 			<item>
 			   <title>我是工具控(3) - 浅谈 Mac 和 iOS 端的护眼策略</title>
-			   <description>&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/0.%E5%B0%81%E9%9D%A2_flux.png&quot;&gt;&lt;/p&gt;
+			   <description>&lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/0.%E5%B0%81%E9%9D%A2_flux.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;现如今，我们花费越来越多的时间面对电脑和手机，首先要发出抗议的恐怕就是我们的眼睛了，今天我跟大家分享一下如何保护眼睛并让我们的数码设备对眼睛更「亲近」。&lt;/p&gt;
 
 &lt;p&gt;本文会从以下四个方面分享：&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;如何缓解眼睛疲劳&lt;/li&gt;
-&lt;li&gt;在电脑上保护眼睛：f.lux&lt;/li&gt;
-&lt;li&gt;在手机上保护眼睛：Night Shift&lt;/li&gt;
-&lt;li&gt;iOS 进阶「夜间模式」开启技巧&lt;/li&gt;
+  &lt;li&gt;如何缓解眼睛疲劳&lt;/li&gt;
+  &lt;li&gt;在电脑上保护眼睛：f.lux&lt;/li&gt;
+  &lt;li&gt;在手机上保护眼睛：Night Shift&lt;/li&gt;
+  &lt;li&gt;iOS 进阶「夜间模式」开启技巧&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;正文：&lt;/p&gt;
 
-&lt;h2&gt;一、如何缓解眼睛疲劳&lt;/h2&gt;
+&lt;h2 id=&quot;section&quot;&gt;一、如何缓解眼睛疲劳&lt;/h2&gt;
 
 &lt;p&gt;长时间面对电脑，难免会让人眼睛干涩不舒服，我个人的解决办法是：眼保健操。对，就是小学时候我们每天都要做的眼保健操；眼保健操的使用也有两点是需要我们注意的：&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;一定要保证卫生，&lt;strong&gt;洗手&lt;/strong&gt;是必须的；&lt;/li&gt;
-&lt;li&gt;不要过于用力，&lt;strong&gt;轻柔&lt;/strong&gt;舒缓的动作为佳；&lt;/li&gt;
+  &lt;li&gt;一定要保证卫生，&lt;strong&gt;洗手&lt;/strong&gt;是必须的；&lt;/li&gt;
+  &lt;li&gt;不要过于用力，&lt;strong&gt;轻柔&lt;/strong&gt;舒缓的动作为佳；&lt;/li&gt;
 &lt;/ol&gt;
-
 
 &lt;p&gt;如果有条件远眺或者看一看绿色植物，甚至走动一下，让眼睛远离电脑去接触不同的事物也是很好的办法。&lt;/p&gt;
 
-&lt;h2&gt;二、在电脑上保护眼睛：f.lux&lt;/h2&gt;
+&lt;h2 id=&quot;flux&quot;&gt;二、在电脑上保护眼睛：f.lux&lt;/h2&gt;
 
 &lt;p&gt;f.lux 是一款调节屏幕色温的软件，它根据你所在地理位置的日出日落时间来计算你的环境光照强度，进而自动调节为最舒适的屏幕色温从而达到保护眼睛的效果。&lt;/p&gt;
 
@@ -176,15 +188,16 @@
 
 &lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/10.%202300k.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;一般显示器的默认色温是 6500K，其他色温参考（此为 Mac 跟 iOS 默认色温值）：&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;一般显示器的默认色温是 6500K，其他色温参考（此为 Mac 跟 iOS 默认色温值）：&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Candle（蜡烛）: 2300K&lt;/li&gt;
-&lt;li&gt;Tungsten（白炽灯）: 2700K&lt;/li&gt;
-&lt;li&gt;Halogen（卤素灯）: 3400K&lt;/li&gt;
-&lt;li&gt;Fluorescent（荧光灯）: 4200K&lt;/li&gt;
-&lt;li&gt;Daylight（日光）: 5000K&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Candle（蜡烛）: 2300K&lt;/li&gt;
+    &lt;li&gt;Tungsten（白炽灯）: 2700K&lt;/li&gt;
+    &lt;li&gt;Halogen（卤素灯）: 3400K&lt;/li&gt;
+    &lt;li&gt;Fluorescent（荧光灯）: 4200K&lt;/li&gt;
+    &lt;li&gt;Daylight（日光）: 5000K&lt;/li&gt;
+  &lt;/ul&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;从图中可以看出有一条色带是有显著变化的，这就是蓝光（Blue Light），f.lux 介绍的一些研究表明，蓝光在白天对我们是有益的，但在夜晚时会对睡眠质量产生负面影响，而 f.lux 调整色温的变化，核心也就是降低蓝光在不同环境光下的强度。&lt;/p&gt;
@@ -194,11 +207,10 @@
 &lt;p&gt;为满足特殊场景的需要，f.lux 提供了三种色彩模式可供选择：&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;摄影爱好者使用的「暗房模式」&lt;/li&gt;
-&lt;li&gt;观看电影使用的「电影模式」（可维持 2.5 小时）&lt;/li&gt;
-&lt;li&gt;夜间使用电脑的「OS X 暗色主题」&lt;/li&gt;
+  &lt;li&gt;摄影爱好者使用的「暗房模式」&lt;/li&gt;
+  &lt;li&gt;观看电影使用的「电影模式」（可维持 2.5 小时）&lt;/li&gt;
+  &lt;li&gt;夜间使用电脑的「OS X 暗色主题」&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/flux_11.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -210,11 +222,13 @@
 
 &lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/flux_13.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;题外话：有的时候，同事来到我电脑跟前都会说你的屏幕怎么这么暗这么黄，看着真不习惯。是的，从正常屏幕色温一下子切换到「黄色屏幕」，眼睛是肯定习惯不了的，f.lux 的色温调节是平滑过渡的，让你朋友从白天开始使用两天，相信他就能适应这种变化了。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;题外话：有的时候，同事来到我电脑跟前都会说你的屏幕怎么这么暗这么黄，看着真不习惯。是的，从正常屏幕色温一下子切换到「黄色屏幕」，眼睛是肯定习惯不了的，f.lux 的色温调节是平滑过渡的，让你朋友从白天开始使用两天，相信他就能适应这种变化了。&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;f.lux 支持 iOS 系统，但因为某些原因你并不能从 App Store 中下载到它，目前&lt;strong&gt;只能在越狱的手机上使用&lt;/strong&gt;，但不建议你为了使用此功能而去越狱，因为 iOS 9.3 版本中也加入了相应的功能，下面为大家作简单介绍。&lt;/p&gt;
 
-&lt;h2&gt;三、在手机上保护眼睛：Night Shift&lt;/h2&gt;
+&lt;h2 id=&quot;night-shift&quot;&gt;三、在手机上保护眼睛：Night Shift&lt;/h2&gt;
 
 &lt;p&gt;iOS 9.3 版本已经加入了 Night Shift 功能，目前已经可以通过 &lt;a href=&quot;https://beta.apple.com/sp/zh/betaprogram/&quot;&gt;使用 Beta 版&lt;/a&gt; 来尝鲜了，下面是官网的介绍：&lt;/p&gt;
 
@@ -232,7 +246,7 @@
 
 &lt;p&gt;iOS 9.3 的正式版本相信不久后就可以升级使用了，下面再给大家介绍一个小技巧，只要是 iOS 设备都可以使用，虽然不能达到降低色温的效果，但可以让你的屏幕亮度瞬间变暗，间接达到「夜间模式」的效果。&lt;/p&gt;
 
-&lt;h2&gt;四、iOS 进阶「夜间模式」开启技巧&lt;/h2&gt;
+&lt;h2 id=&quot;ios-&quot;&gt;四、iOS 进阶「夜间模式」开启技巧&lt;/h2&gt;
 
 &lt;p&gt;有朋友说我没有升级到 iOS 9.3，也有朋友说我不喜欢暖黄色的屏幕，还有朋友说我把屏幕亮度调到最低了，但在被窝里仍然感觉太亮了，怎么办啊？&lt;/p&gt;
 
@@ -240,23 +254,26 @@
 
 &lt;p&gt;打开 iOS 的「缩放」功能，操作见下图：&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;设置 → 通用 → 辅助功能 → 缩放&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;设置 → 通用 → 辅助功能 → 缩放&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/15.%E6%89%93%E5%BC%80%E7%BC%A9%E6%94%BE.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;关键点：&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;缩放区域：&lt;strong&gt;全屏幕缩放&lt;/strong&gt;；&lt;/li&gt;
-&lt;li&gt;缩放过滤器：&lt;strong&gt;弱光&lt;/strong&gt;；&lt;/li&gt;
+  &lt;li&gt;缩放区域：&lt;strong&gt;全屏幕缩放&lt;/strong&gt;；&lt;/li&gt;
+  &lt;li&gt;缩放过滤器：&lt;strong&gt;弱光&lt;/strong&gt;；&lt;/li&gt;
 &lt;/ol&gt;
-
 
 &lt;p&gt;注意：打开缩放后屏幕会变大，这时候需要用三指双击屏幕，即可恢复正常大小（因录屏软件限制，此效果未在录屏动画中体现）&lt;/p&gt;
 
 &lt;p&gt;打开后还没有结束，我们不可能每次都要进入这么深的设置中去打开/关闭，所以还需要设置一下快捷键：&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;通用 → 辅助功能 → 辅助功能快捷键 → 缩放&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;通用 → 辅助功能 → 辅助功能快捷键 → 缩放&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/17.%E7%BC%A9%E6%94%BE%E5%BF%AB%E6%8D%B7%E9%94%AE.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -265,14 +282,20 @@
 &lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/18.%E5%A4%9C%E9%97%B4%E6%A8%A1%E5%BC%8F%E6%95%88%E6%9E%9C.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;相关链接&lt;/strong&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;相关链接&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://justgetflux.com&quot;&gt;f.lux 官方网站&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://justgetflux.com/research.html&quot;&gt;蓝光的相关研究&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.apple.com/cn/ios/preview/&quot;&gt;iOS 9.3 预览&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://justgetflux.com&quot;&gt;f.lux 官方网站&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://justgetflux.com/research.html&quot;&gt;蓝光的相关研究&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.apple.com/cn/ios/preview/&quot;&gt;iOS 9.3 预览&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;本期的 #我是工具控# 一共分享了四个内容，希望对你有所帮助。&lt;/p&gt;
@@ -293,7 +316,9 @@
 &lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/icon128.png&quot; alt=&quot;&quot; /&gt;
 Kuvva wallpapers | ¥30&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;说来惭愧，这款软件 2011 年已经发布，而我是最近才开始使用，因为以前一直将壁纸设置为纯色背景居多，所以这方面需求也不是太强烈，属于被动安利类工具。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;说来惭愧，这款软件 2011 年已经发布，而我是最近才开始使用，因为以前一直将壁纸设置为纯色背景居多，所以这方面需求也不是太强烈，属于被动安利类工具。&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Kuvva wallpapers 的网址是 &lt;a href=&quot;https://www.kuvva.com&quot;&gt;kuvva.com&lt;/a&gt; ，图片来源自全球各地的设计师和艺术家们，主要以插画为主；所有图片均有版权（也在 &lt;a href=&quot;https://www.kuvva.com&quot;&gt;kuvva.com&lt;/a&gt; 上出售），所以只能将图片用作桌面壁纸（不可作其他用途），也不能下载到本地。&lt;/p&gt;
 
@@ -315,7 +340,9 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.kuvva.com/s/j9F0DY9KTAk&quot;&gt;查看我收藏的图片&lt;/a&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;Kuvva 还有对应的 iPhone 版本，但不知为何在 11 月左右下架了，官方也暂未给出答复。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Kuvva 还有对应的 iPhone 版本，但不知为何在 11 月左右下架了，官方也暂未给出答复。&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;作为一款以内容为主的应用，Kuvva wallpapers 自 2014 年 1 月后就未再更新过，不过壁纸素材一直没有停止更新；目前的售价为 30 元人民币，历史上 2014 年 10 月曾经特价 18 元，目测很难再有冰点特价了，一杯咖啡的价钱，喜欢的朋友建议直接收下。&lt;/p&gt;
 
@@ -325,7 +352,7 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 
 &lt;p&gt;同类软件推荐：&lt;/p&gt;
 
-&lt;h3&gt;Irvue - Unsplash Wallpapers | 免费&lt;/h3&gt;
+&lt;h3 id=&quot;irvue---unsplash-wallpapers--&quot;&gt;Irvue - Unsplash Wallpapers | 免费&lt;/h3&gt;
 
 &lt;p&gt;壁纸全部来自免费高清图库 Unsplash，大多是摄影类作品，也是我之前一直使用的壁纸软件，特点是图片都是免费可商用的，可以下载到本地任意修改使用；不过因为随机切换的图片质量不可控（个人口味不符），所以改用 Kuvva。&lt;/p&gt;
 
@@ -333,9 +360,9 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/irvue-unsplash-wallpapers/id1039633667&quot;&gt;Irvue 下载地址&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3&gt;Bing&lt;/h3&gt;
+&lt;h3 id=&quot;bing&quot;&gt;Bing&lt;/h3&gt;
 
 &lt;p&gt;Bing 的壁纸质量也很高，不过目前没有比较成熟的 Mac 客户端，网络上有一些脚本可供使用（门槛过高了），如果你懂一些代码，可以去 github 自寻查找相关信息；如果你知道有好用的 Bing 壁纸软件，也希望推荐给我，谢谢。&lt;/p&gt;
 
@@ -358,11 +385,10 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 &lt;p&gt;其实，我一直认为自己不是一个“工具控”，而是在努力让自己去「控工具」；我并不是为了使用各种新奇或好玩的工具才去涉猎，也并不是什么工具都愿意花时间去研究评测；我愿意为之付出时间和精力的工具，有着自己的“个人口味”，在以下三种情况时，我会主动去涉猎相关软件，有时还会做一定的对比评测和研究学习：&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;生产力工具，如 Sketch、Photoshop、Axure 等；&lt;/li&gt;
-&lt;li&gt;效率类工具，如 Moom、Manico、Alfred 等；&lt;/li&gt;
-&lt;li&gt;遇到问题，需要寻找工具去解决时，如：GIFMaker、Pivaxe、Dropzone 等；&lt;/li&gt;
+  &lt;li&gt;生产力工具，如 Sketch、Photoshop、Axure 等；&lt;/li&gt;
+  &lt;li&gt;效率类工具，如 Moom、Manico、Alfred 等；&lt;/li&gt;
+  &lt;li&gt;遇到问题，需要寻找工具去解决时，如：GIFMaker、Pivaxe、Dropzone 等；&lt;/li&gt;
 &lt;/ol&gt;
-
 
 &lt;p&gt;其他类型的软件，我一般都是被动去接触和使用的，只是平时偶尔爱去浏览一些资讯类网站（sspai、Pinapps、jbguide 等），就慢慢的积攒了下来。&lt;/p&gt;
 
@@ -377,6 +403,7 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 &lt;p&gt;最重要的一点声明：&lt;strong&gt;本系列文章所介绍的所有收费软件，都是本人正规途径购得的正版软件。&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;也希望大家尽量都能使用正版软件，也在此感谢所有的软件开发者朋友，是你们创建了一个如此好的软件生态环境，谢谢！&lt;/p&gt;
+
 </description>
 			   <pubDate>Mon, 25 Jan 2016 00:00:00 +0800</pubDate>
 			   <link>http://zifeixu.com/gongjukong/</link>
@@ -385,7 +412,9 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 		
 			<item>
 			   <title>讲座笔记：携程 UED 产品与设计大会</title>
-			   <description>&lt;blockquote&gt;&lt;p&gt;携程的这个讲座已经是第三届，可以说一年不如一年，且票价两百多稍贵，目测基本都是公司组团报销来参加的；今年的场地在上海南站附近，位置尚好，但估计是票超卖太多了，好多人被迫站在场外；对我来说最有价值的内容还是下午的工作坊。&lt;/p&gt;&lt;/blockquote&gt;
+			   <description>&lt;blockquote&gt;
+  &lt;p&gt;携程的这个讲座已经是第三届，可以说一年不如一年，且票价两百多稍贵，目测基本都是公司组团报销来参加的；今年的场地在上海南站附近，位置尚好，但估计是票超卖太多了，好多人被迫站在场外；对我来说最有价值的内容还是下午的工作坊。&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;上面是我在总结最近讲座的时候写到的，下面简单分享一些我记录的笔记。&lt;/p&gt;
 
@@ -397,7 +426,7 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 
 &lt;p&gt;接下来张溪梦先生分享了 Linkedin 和他们公司做数据分析的一些经验，说到了：&lt;strong&gt;如果无法度量，就不能增长&lt;/strong&gt;（可能是彼得·德鲁克所说）；所以如果想要跟进增长，就需要把事物量化。&lt;/p&gt;
 
-&lt;p&gt;产品的价值需要用户使用来体现，所以：&lt;strong&gt;用户价值&gt;产品价值&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;产品的价值需要用户使用来体现，所以：&lt;strong&gt;用户价值&amp;gt;产品价值&lt;/strong&gt;。&lt;/p&gt;
 
 &lt;p&gt;产品经理思考四个层次（见图）&lt;/p&gt;
 
@@ -437,7 +466,9 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;blockquote&gt;&lt;p&gt;我自己在旅游中遇到的问题：因为总是不想花太多时间在做攻略上，所以出发后遇到各种问题时都会临时的用手机查询，而这类信息在网络上流传有限，往往是在旅游景点的某个固定地方才有详细的告示（比如要坐船，却不知道有哪些班次）；如果能够打破传统旅游景点的信息壁垒，让相关信息都容易被检索，且能做到信息真实和高效率解决问题，会不会也是一个不错的方向呢？&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;我自己在旅游中遇到的问题：因为总是不想花太多时间在做攻略上，所以出发后遇到各种问题时都会临时的用手机查询，而这类信息在网络上流传有限，往往是在旅游景点的某个固定地方才有详细的告示（比如要坐船，却不知道有哪些班次）；如果能够打破传统旅游景点的信息壁垒，让相关信息都容易被检索，且能做到信息真实和高效率解决问题，会不会也是一个不错的方向呢？&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;hr /&gt;
 
@@ -451,7 +482,10 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;blockquote&gt;&lt;p&gt;原文发布在微信公众号：&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MjM5NDQ3ODI3NQ==&amp;amp;mid=402011733&amp;amp;idx=1&amp;amp;sn=7879bf78621da6cf1909c095d5da82d6&amp;amp;scene=18#rd&quot;&gt;设计师的自我修炼&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;原文发布在微信公众号：&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MjM5NDQ3ODI3NQ==&amp;amp;mid=402011733&amp;amp;idx=1&amp;amp;sn=7879bf78621da6cf1909c095d5da82d6&amp;amp;scene=18#rd&quot;&gt;设计师的自我修炼&lt;/a&gt;&lt;/p&gt;
+
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/38140-74cda752a8b84ee7?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
@@ -462,15 +496,17 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 		
 			<item>
 			   <title>讲座笔记：齐俊元 Growing our Growth Team</title>
-			   <description>&lt;blockquote&gt;&lt;p&gt;1.此次分享内容，Teambition 已经重新整理并发布在 36Kr 上，可点击页面底部的「阅读原文」查看。
-&lt;br&gt;2.如需要演讲的速记文字稿，可在微信公众号中直接回复「增长黑客」四个字&lt;/p&gt;&lt;/blockquote&gt;
+			   <description>&lt;blockquote&gt;
+  &lt;p&gt;1.此次分享内容，Teambition 已经重新整理并发布在 36Kr 上，可点击页面底部的「阅读原文」查看。
+&lt;br /&gt;2.如需要演讲的速记文字稿，可在微信公众号中直接回复「增长黑客」四个字&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;&lt;br&gt;
+&lt;p&gt;&lt;br /&gt;
 下面内容根据当时记录的笔记和演讲稿整理：&lt;/p&gt;
 
 &lt;p&gt;主题：Ping++大会·增长
-&lt;br&gt;时间：2015年12月12日下午
-&lt;br&gt;分享人：Teambition CEO 齐俊元&lt;/p&gt;
+&lt;br /&gt;时间：2015年12月12日下午
+&lt;br /&gt;分享人：Teambition CEO 齐俊元&lt;/p&gt;
 
 &lt;p&gt;Teambition 团队最开始是在媒体上看到 Growth Hacker 这个词的，当时最著名的两个案例是 滴滴打车红包 和 Uber邀请新用户奖励，在他们看来这是一件很酷的事，于是他们就组建了自己的 Growth Team，架构和流程如下图：&lt;/p&gt;
 
@@ -487,11 +523,10 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 &lt;p&gt;这个项目最后是成功上线了，不过这中间也遇到了很多问题：&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;周期太长：持续了三个月时间（从创意到开发上线）&lt;/li&gt;
-&lt;li&gt;没有在前期验证效果（比如做 AB Testing 验证一下）&lt;/li&gt;
-&lt;li&gt;通过微信朋友圈的分享，没办法留下跟踪代码（也就是看不到谁推荐的）&lt;/li&gt;
+  &lt;li&gt;周期太长：持续了三个月时间（从创意到开发上线）&lt;/li&gt;
+  &lt;li&gt;没有在前期验证效果（比如做 AB Testing 验证一下）&lt;/li&gt;
+  &lt;li&gt;通过微信朋友圈的分享，没办法留下跟踪代码（也就是看不到谁推荐的）&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;最开始的想法是看到谁推荐，就可以给谁开通表情特权，最后没想到微信上居然没有办法跟踪，于是又花了一个礼拜把之前做的事全部推翻，变成了只要在任何渠道看到你做过这件事，你 @ 一下 Teambition 的团队或成员，你就可以获得这个表情特权；这样改了之后才慢慢有人去使用。&lt;/p&gt;
 
@@ -503,26 +538,26 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/teambition_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;第一，我们是发现机会&lt;strong&gt;提出假设，而不是提出创意&lt;/strong&gt;，我们是要在我们巨大的 Teambition 现有的数据里面，去找到能够让我们，让新用户用的更好，停的更久，推荐更多人的方法，所以我们该干的是什么，我们该干得是从我们打的上亿的那些用户的点里面去找，我们以前什么样的用户用 Teambition 用的比较好，什么样的用户注册了 Teambition 之后，他&lt;strong&gt;干了一件特定的事，于是他留下了&lt;/strong&gt;，我们通过这样的东西去定义，如果我们能让其他的人，也干这样的事，他可能留的时间更长，这就是增长的机会。
-&lt;br&gt;— 以上摘自&lt;a href=&quot;&quot;&gt;演讲速记稿&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;第一，我们是发现机会&lt;strong&gt;提出假设，而不是提出创意&lt;/strong&gt;，我们是要在我们巨大的 Teambition 现有的数据里面，去找到能够让我们，让新用户用的更好，停的更久，推荐更多人的方法，所以我们该干的是什么，我们该干得是从我们打的上亿的那些用户的点里面去找，我们以前什么样的用户用 Teambition 用的比较好，什么样的用户注册了 Teambition 之后，他&lt;strong&gt;干了一件特定的事，于是他留下了&lt;/strong&gt;，我们通过这样的东西去定义，如果我们能让其他的人，也干这样的事，他可能留的时间更长，这就是增长的机会。
+&lt;br /&gt;— 以上摘自&lt;a href=&quot;&quot;&gt;演讲速记稿&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;ol&gt;
-&lt;li&gt;提出假设：「如果其他人也做了这件事，他会不会停留更久？」；&lt;/li&gt;
-&lt;li&gt;假设提出后，要去更早的分析数据，及时修正假设；&lt;/li&gt;
-&lt;li&gt;自己去设计方案，自己想清楚了想完善了再开始研发，去尝试；&lt;/li&gt;
-&lt;li&gt;最后再跟踪分析数据；&lt;/li&gt;
+  &lt;li&gt;提出假设：「如果其他人也做了这件事，他会不会停留更久？」；&lt;/li&gt;
+  &lt;li&gt;假设提出后，要去更早的分析数据，及时修正假设；&lt;/li&gt;
+  &lt;li&gt;自己去设计方案，自己想清楚了想完善了再开始研发，去尝试；&lt;/li&gt;
+  &lt;li&gt;最后再跟踪分析数据；&lt;/li&gt;
 &lt;/ol&gt;
-
 
 &lt;p&gt;关于产品经理，俊元说他们在产品团队是没有产品经理的，但是在增长团队有三个产品经理。&lt;/p&gt;
 
 &lt;p&gt;接下来是介绍了在这个机制下做的两个新项目：&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;提示用户用书签保存项目链接&lt;/li&gt;
-&lt;li&gt;提示用户可以自定义任务阶段&lt;/li&gt;
+  &lt;li&gt;提示用户用书签保存项目链接&lt;/li&gt;
+  &lt;li&gt;提示用户可以自定义任务阶段&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;这两个项目具体的过程可以在「阅读原文」中看到，这里不做过多赘述了，最后再提一下 Teambition 总结的假设模板：&lt;/p&gt;
 
@@ -530,7 +565,9 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 
 &lt;p&gt;最后放上 Teambition 经过一年多的探索后对「增长黑客」所下的一个定义：&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;Teambition 增长团队由工程师、数据分析师和产品经理组成。他们像科学家一样通过实验来找到让 Teambition 不断变得更好的方法。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Teambition 增长团队由工程师、数据分析师和产品经理组成。他们像科学家一样通过实验来找到让 Teambition 不断变得更好的方法。&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;拓展阅读：如果对「增长团队」感兴趣，推荐购买范冰的《增长黑客》
 &lt;img src=&quot;http://qiniu.zifeixu.com/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -539,7 +576,10 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;blockquote&gt;&lt;p&gt;原文发布在微信公众号：&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MjM5NDQ3ODI3NQ==&amp;amp;mid=401859147&amp;amp;idx=1&amp;amp;sn=7b5747440737a2c9e523305c613e4472&amp;amp;scene=18#rd&quot;&gt;设计师的自我修炼&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;原文发布在微信公众号：&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MjM5NDQ3ODI3NQ==&amp;amp;mid=401859147&amp;amp;idx=1&amp;amp;sn=7b5747440737a2c9e523305c613e4472&amp;amp;scene=18#rd&quot;&gt;设计师的自我修炼&lt;/a&gt;&lt;/p&gt;
+
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/38140-74cda752a8b84ee7?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
@@ -550,64 +590,61 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 		
 			<item>
 			   <title>设计类讲座总结分享</title>
-			   <description>&lt;p&gt;在2015年的12月里，我一共参加了五场讲座，整整四天时间，二十几位嘉宾的分享，有的好有的槽，有的发人深省，有的浪费时间，有的让我了解到陌生的领域，而有的加深了我对专业设计的理解......&lt;/p&gt;
+			   <description>&lt;p&gt;在2015年的12月里，我一共参加了五场讲座，整整四天时间，二十几位嘉宾的分享，有的好有的槽，有的发人深省，有的浪费时间，有的让我了解到陌生的领域，而有的加深了我对专业设计的理解……&lt;/p&gt;
 
 &lt;p&gt;今天，我在这里讲一讲，面对如此繁多的讲座，我是如何选择，又如何去学习吸收的。&lt;/p&gt;
 
 &lt;p&gt;文章末尾会对最近几场讲座放一些简单的介绍、笔记和相关链接（PPT、视频回放等资料），也可 &lt;a href=&quot;#lectures&quot;&gt;&lt;em&gt;点此直接查看&lt;/em&gt;&lt;/a&gt;。&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2&gt;一、为何要听讲座&lt;/h2&gt;
+&lt;h2 id=&quot;section&quot;&gt;一、为何要听讲座&lt;/h2&gt;
 
 &lt;p&gt;我个人蛮喜欢参加讲座，也从自我出发，尝试分析听讲座的好处和坏处，欢迎指正。&lt;/p&gt;
 
 &lt;p&gt;好处:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;可以看到别人在不同角度是如何理解并分析解决问题；&lt;/li&gt;
-&lt;li&gt;拓展知识面，增长眼界和见识（特别是 BAT 类的互联网公司，有很长时间的知识沉淀）；&lt;/li&gt;
-&lt;li&gt;借鉴学习别人/团队的方法论；&lt;/li&gt;
-&lt;li&gt;分享者一般是比现在的自己 level 更高的人，这种人在生活中很少会跟你分享他的成长，讲座是一个机会；&lt;/li&gt;
+  &lt;li&gt;可以看到别人在不同角度是如何理解并分析解决问题；&lt;/li&gt;
+  &lt;li&gt;拓展知识面，增长眼界和见识（特别是 BAT 类的互联网公司，有很长时间的知识沉淀）；&lt;/li&gt;
+  &lt;li&gt;借鉴学习别人/团队的方法论；&lt;/li&gt;
+  &lt;li&gt;分享者一般是比现在的自己 level 更高的人，这种人在生活中很少会跟你分享他的成长，讲座是一个机会；&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;坏处:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;比较耗时，常常是一整天或至少大半天；&lt;/li&gt;
-&lt;li&gt;常因不能回顾复习，而导致内容不易消化（没有及时的 PPT 或视频）；&lt;/li&gt;
-&lt;li&gt;偶尔会导致 「&lt;strong&gt;我已经会了&lt;/strong&gt;」 的错觉；&lt;/li&gt;
-&lt;li&gt;因为只能听演讲者一个人分享，对陌生领域的知识有时会陷入误区（因为分享者的水平高低不等，而自己不能作出判断）；&lt;/li&gt;
+  &lt;li&gt;比较耗时，常常是一整天或至少大半天；&lt;/li&gt;
+  &lt;li&gt;常因不能回顾复习，而导致内容不易消化（没有及时的 PPT 或视频）；&lt;/li&gt;
+  &lt;li&gt;偶尔会导致 「&lt;strong&gt;我已经会了&lt;/strong&gt;」 的错觉；&lt;/li&gt;
+  &lt;li&gt;因为只能听演讲者一个人分享，对陌生领域的知识有时会陷入误区（因为分享者的水平高低不等，而自己不能作出判断）；&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;除了耗时之外，其他几点都是可以通过方法去改善或解决的，所以听讲座仍然不失为一种不错的学习拓展途径。&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2&gt;二、如何挑选一场好讲座&lt;/h2&gt;
-
+&lt;h2 id=&quot;section-1&quot;&gt;二、如何挑选一场好讲座&lt;/h2&gt;
 &lt;p&gt;就好像买书时我们面临的选择疑难症一样，面对现在如此繁多的讲座资源(线下跟线上)，我们也要做好精心的挑选才行，好讲座让人回味，烂分享误人时间。&lt;/p&gt;
 
 &lt;p&gt;一般来说，只要符合几个基本条件，我都会考虑参加：&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;知名的演讲者&lt;/li&gt;
-&lt;li&gt;知名的互联网公司或设计咨询类公司&lt;/li&gt;
-&lt;li&gt;演讲者经常出席讲座分享&lt;/li&gt;
-&lt;li&gt;演讲者分享同一主题次数更多的&lt;/li&gt;
+  &lt;li&gt;知名的演讲者&lt;/li&gt;
+  &lt;li&gt;知名的互联网公司或设计咨询类公司&lt;/li&gt;
+  &lt;li&gt;演讲者经常出席讲座分享&lt;/li&gt;
+  &lt;li&gt;演讲者分享同一主题次数更多的&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;blockquote&gt;&lt;p&gt;简单说明一下最后两个条件，经常出席讲座分享的说明这人演讲能力不错，一般都会把内容有逻辑的讲清楚；而同一主题分享次数更多的，至少说明内容还是比较受欢迎，并很可能已经经过无数次的修订优化，类似于书的修订版概念。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;简单说明一下最后两个条件，经常出席讲座分享的说明这人演讲能力不错，一般都会把内容有逻辑的讲清楚；而同一主题分享次数更多的，至少说明内容还是比较受欢迎，并很可能已经经过无数次的修订优化，类似于书的修订版概念。&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;除了甄别出有质量的讲座，有的时候我们还会选择去拓宽自己的知识面，也就是去学习那些对现在的自己来说比较陌生的领域；这个时候只要分享者满足上述任一条件且内容是我感兴趣的未知领域，我都会考虑参加。&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2&gt;三、听讲座，怎么听？&lt;/h2&gt;
-
+&lt;h2 id=&quot;section-2&quot;&gt;三、听讲座，怎么听？&lt;/h2&gt;
 &lt;p&gt;我年轻的时候特别爱去参加各类讲座，当时的一些讲座鸡汤很多，每次听完后就沉浸在一种 「&lt;strong&gt;即将获得成功&lt;/strong&gt;」 的幻想当中，做事充满了干劲和激情应该是当时仅剩的好处了吧，然而在一两周之后就被打回原形，再过一段时间就把演讲的内容忘得差不多了。现在回想起来，当时去听讲座，只关注到了作者成功后的总结，却忽视了他所经历的过程，但却正是因为他们所经历过程的不同，才造就了他们现在的成就，最值得关注的不是他们分享的「干货」，而是他们的经历和成长。&lt;/p&gt;
 
 &lt;p&gt;专注在「干货」上，就如一个伸手党：比如我们拿到了作者分享的 Flat UI Kit，却不知道为什么大家都要用 Flat Design？如果不去理解和经历拟物的过程，又如何知道扁平的初衷呢？&lt;/p&gt;
@@ -616,148 +653,149 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 
 &lt;p&gt;每个人的经历都是不可复制的，特别是那些已在某些方面获得一定成就的人；他们在面对不同方向时如何抉择？又在哪些方面付出更多努力？这些东西往往能给我们更多启发。&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;下面简单总结一下自己听讲座时最关注的地方：&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;听自己最感兴趣的内容；&lt;/li&gt;
-&lt;li&gt;听作者最熟悉并亲自经历的内容；(我听过 A 演讲者分享的却是 B 做的 PPT，乱…)&lt;/li&gt;
-&lt;li&gt;接收「干货」，但保持质疑，不要直接纳入到自己的知识体系中，需要经过消化吸收和验证的过程；&lt;/li&gt;
-&lt;li&gt;关注演讲者的学习成长经历（他的「干货」或成就是否跟某段经历息息相关？）；&lt;/li&gt;
+  &lt;li&gt;听自己最感兴趣的内容；&lt;/li&gt;
+  &lt;li&gt;听作者最熟悉并亲自经历的内容；(我听过 A 演讲者分享的却是 B 做的 PPT，乱…)&lt;/li&gt;
+  &lt;li&gt;接收「干货」，但保持质疑，不要直接纳入到自己的知识体系中，需要经过消化吸收和验证的过程；&lt;/li&gt;
+  &lt;li&gt;关注演讲者的学习成长经历（他的「干货」或成就是否跟某段经历息息相关？）；&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;&lt;strong&gt;学习 &lt;em&gt;如何做一个好的分享者&lt;/em&gt; 要关注的地方：&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;看看哪些嘉宾的哪些内容，最容易引起大家的共鸣和掌声；&lt;/li&gt;
-&lt;li&gt;看看分享内容的组织整理是否合理；&lt;/li&gt;
-&lt;li&gt;关注那些视觉引导做得不错的内容（PPT 的制作）；&lt;/li&gt;
-&lt;li&gt;关注那些肢体语言引导不错的演讲者（学习演讲技能）；
-&lt;br&gt;&lt;/li&gt;
+  &lt;li&gt;看看哪些嘉宾的哪些内容，最容易引起大家的共鸣和掌声；&lt;/li&gt;
+  &lt;li&gt;看看分享内容的组织整理是否合理；&lt;/li&gt;
+  &lt;li&gt;关注那些视觉引导做得不错的内容（PPT 的制作）；&lt;/li&gt;
+  &lt;li&gt;关注那些肢体语言引导不错的演讲者（学习演讲技能）；
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;每一次参加讲座，事后总能听到大家说 A 的内容好水，B 的「干货」挺多的等等，除了分享的内容确实真的水之外，还有以下两种可能:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;大部分情况是不在类似岗位、没有相似经历，所以难以产生共鸣；&lt;/li&gt;
-&lt;li&gt;还有一部分，是没有抓住分享的重点，关注旁枝末节（比如拙劣的演讲能力）去了而不再仔细听讲；&lt;/li&gt;
+  &lt;li&gt;大部分情况是不在类似岗位、没有相似经历，所以难以产生共鸣；&lt;/li&gt;
+  &lt;li&gt;还有一部分，是没有抓住分享的重点，关注旁枝末节（比如拙劣的演讲能力）去了而不再仔细听讲；&lt;/li&gt;
 &lt;/ol&gt;
-
 
 &lt;p&gt;看看自己有没有这两方面的问题，稍微注意一下会发现其实内容还不错，还原一下场景说不定还能得到不少收获；但若真不幸遇到了很水的分享，大可以转移焦点，从演讲者身上挖掘其他的亮点（比如 Ta 丰富的肢体语言是如何做到的？），并留心演讲内容，避免错过精彩部分（千万不要跟旁边人唠嗑）。&lt;/p&gt;
 
 &lt;p&gt;要知道，在听每一场讲座分享的时候，都是在付出你的时间和生命，所以一定有必要&lt;strong&gt;关注最核心的地方，适当做一些笔记以便在事后还能去回顾思考&lt;/strong&gt;（最好不要指望 PPT 和视频），回去后尽快的消化总结，将对自己最有用的那一小撮内容记下来，对的，真的可能只有一小撮内容，但确是别人的经历对我们最宝贵的启发。&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2&gt;四、如何办一场好讲座？&lt;/h2&gt;
+&lt;h2 id=&quot;section-3&quot;&gt;四、如何办一场好讲座？&lt;/h2&gt;
 
 &lt;p&gt;对于好讲座，这次也是深有体会，几场讲座中「TEDxCaohejing-体验者」给了我非常棒的体验，首先是在参会前一天晚上收到了一封非常详细的参会指南（是我目前收到过最详尽的）：&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;&quot;&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/2016-01-01-view.png&quot; title=&quot;体验者SALON-观众须知&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/2016-01-01-view.png&quot; alt=&quot;&quot; title=&quot;体验者SALON-观众须知&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#39;http://7bv9u5.com1.z0.glb.clouddn.com/2016-01-01-0.png&#39; target=_blank&gt;&lt;em&gt;{点此查看完整大图}&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;a href=’http://7bv9u5.com1.z0.glb.clouddn.com/2016-01-01-0.png’ target=_blank&amp;gt;&lt;em&gt;{点此查看完整大图}&lt;/em&gt;&amp;lt;/a&amp;gt;&lt;/p&gt;
 
 &lt;p&gt;第二天到会场的时候，打车到了酒店后门，刚进去没几步就看到一个带着袖标的女生，问我是不是参加 TED 活动并给我指路；进酒店会议室的时候有很好的引导观众跟嘉宾的程序；酒店的会议室不大，全场应该不到两百人，座位都很宽松，观众座位距前台嘉宾都很近；除了前面的大屏幕，左右各有一个悬挂显示器转播 PPT；送的礼品中有酒店的矿泉水等等。&lt;/p&gt;
 
-&lt;p&gt;上半场的三位嘉宾分享之后，有一个长达 45 分钟的茶歇，让在场观众和嘉宾们在用茶点的同时可以互相交流沟通（要知道平时的讲座我们都只能仰望嘉宾在台上分享，也和旁边座位的人没有任何沟通，一个人参加也是一个人离场）；最过分的是茶点居然异常的丰富，除了各式水果和蛋糕，还有蒸饺（虾仁口味）、红酒、咖啡、红茶和曲奇等等......&lt;/p&gt;
+&lt;p&gt;上半场的三位嘉宾分享之后，有一个长达 45 分钟的茶歇，让在场观众和嘉宾们在用茶点的同时可以互相交流沟通（要知道平时的讲座我们都只能仰望嘉宾在台上分享，也和旁边座位的人没有任何沟通，一个人参加也是一个人离场）；最过分的是茶点居然异常的丰富，除了各式水果和蛋糕，还有蒸饺（虾仁口味）、红酒、咖啡、红茶和曲奇等等……&lt;/p&gt;
 
 &lt;p&gt;说了上面这些，相信你已经知道&lt;strong&gt;怎样办一场好讲座，我归纳为以下几点&lt;/strong&gt;：&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;要有清晰的指南&lt;/li&gt;
-&lt;li&gt;活动现场周围要有清晰的标志或人员引导&lt;/li&gt;
-&lt;li&gt;进场时有引导(包括进场和入座)&lt;/li&gt;
-&lt;li&gt;活动场地的选择和参会人数的控制很重要&lt;/li&gt;
-&lt;li&gt;场地最好离市中心不要太远&lt;/li&gt;
-&lt;li&gt;场地不要太大，否则后场观众离前台很远&lt;/li&gt;
-&lt;li&gt;人数不要太多，否则入场和落座都很不好安排&lt;/li&gt;
-&lt;li&gt;送的礼品中一定要有水，其他都不重要&lt;/li&gt;
-&lt;li&gt;时间跨度太长的话，建议有茶歇，带茶点的茶歇&lt;/li&gt;
-&lt;li&gt;好讲座最关键的还是嘉宾了，甚至一个重量级嘉宾都能构成 90% 观众到场的理由(明星光环)&lt;/li&gt;
+  &lt;li&gt;要有清晰的指南&lt;/li&gt;
+  &lt;li&gt;活动现场周围要有清晰的标志或人员引导&lt;/li&gt;
+  &lt;li&gt;进场时有引导(包括进场和入座)&lt;/li&gt;
+  &lt;li&gt;活动场地的选择和参会人数的控制很重要&lt;/li&gt;
+  &lt;li&gt;场地最好离市中心不要太远&lt;/li&gt;
+  &lt;li&gt;场地不要太大，否则后场观众离前台很远&lt;/li&gt;
+  &lt;li&gt;人数不要太多，否则入场和落座都很不好安排&lt;/li&gt;
+  &lt;li&gt;送的礼品中一定要有水，其他都不重要&lt;/li&gt;
+  &lt;li&gt;时间跨度太长的话，建议有茶歇，带茶点的茶歇&lt;/li&gt;
+  &lt;li&gt;好讲座最关键的还是嘉宾了，甚至一个重量级嘉宾都能构成 90% 观众到场的理由(明星光环)&lt;/li&gt;
 &lt;/ol&gt;
-
 
 &lt;p&gt;关于好讲座的总结就到这里，下面介绍最近的几场讲座时，会吐槽一下都有哪些做得不好的地方 :P&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2&gt;&lt;h2 id=&quot;lectures&quot;&gt; 五、讲座笔记分享 &lt;/h2&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;h2-idlectures--h2&quot;&gt;&amp;lt;h2 id=&quot;lectures&quot;&amp;gt; 五、讲座笔记分享 &amp;lt;/h2&amp;gt;&lt;/h2&gt;
 
 &lt;p&gt;部分有事后记录的纸质笔记，可点击链接查看。&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4&gt;Ping 大会 · 增长&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;时间：12月12日&lt;/li&gt;
-&lt;li&gt;活动介绍：&lt;a href=&#39;http://www.huodongxing.com/event/8310979562600?utm_source=tuicool&amp;utm_medium=referral&#39; target=_blank&gt;链接在此&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;blockquote&gt;&lt;p&gt;朋友公司组织的，盛情之下去参加了，地点在高大上的外滩3号，氛围不错，茶点略少（赞助商提供），最后的 Teambition CEO 齐俊元的分享是我受益最多的，关于 Growth Hacker， &lt;a href=&#39;http://qiniu.zifeixu.com/ping%E5%A4%A7%E4%BC%9A%E7%AC%94%E8%AE%B0.JPG&#39; target=_blank&gt; 笔记在此&lt;/a&gt;。&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h4&gt;UCDChina：O2O领域交互设计分享&lt;/h4&gt;
+&lt;h4 id=&quot;ping---&quot;&gt;Ping 大会 · 增长&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;时间：12月13日&lt;/li&gt;
-&lt;li&gt;视频回放：&lt;a href=&#39;http://www.cctalk.com/course/153351633034/#tab_play&#39; target=_blank&gt;链接在此&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;时间：12月12日&lt;/li&gt;
+  &lt;li&gt;活动介绍：&amp;lt;a href=’http://www.huodongxing.com/event/8310979562600?utm_source=tuicool&amp;amp;utm_medium=referral’ target=_blank&amp;gt;链接在此&amp;lt;/a&amp;gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;朋友公司组织的，盛情之下去参加了，地点在高大上的外滩3号，氛围不错，茶点略少（赞助商提供），最后的 Teambition CEO 齐俊元的分享是我受益最多的，关于 Growth Hacker， &amp;lt;a href=’http://qiniu.zifeixu.com/ping%E5%A4%A7%E4%BC%9A%E7%AC%94%E8%AE%B0.JPG’ target=_blank&amp;gt; 笔记在此&amp;lt;/a&amp;gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;blockquote&gt;&lt;p&gt;做设计的不少人都知道 UCDChina 这个组织吧？不过现在上海应该算是 UCDChina 还在活动的最后一个场地了，希望可以一直走下去!&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;参加过 UCDChina上海的好几次活动，规模一直很精致（控制在几十人），场地选在沪江网总部（张江），这一次是大众点评组团来分享的，感兴趣的可以看回放（暂无笔记）。&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h4&gt;携程UED产品与设计大会：数据时代的产品与设计&lt;/h4&gt;
+&lt;h4 id=&quot;ucdchinao2o&quot;&gt;UCDChina：O2O领域交互设计分享&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;时间：12月19日&lt;/li&gt;
-&lt;li&gt;活动介绍：&lt;a href=&#39;http://uedsummit.ctrip.com/ued2015/&#39; target=_blank&gt;链接在此&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;时间：12月13日&lt;/li&gt;
+  &lt;li&gt;视频回放：&amp;lt;a href=’http://www.cctalk.com/course/153351633034/#tab_play’ target=_blank&amp;gt;链接在此&amp;lt;/a&amp;gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;做设计的不少人都知道 UCDChina 这个组织吧？不过现在上海应该算是 UCDChina 还在活动的最后一个场地了，希望可以一直走下去!&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;携程的这个讲座已经是第三届，可以说一年不如一年，且票价两百多稍贵，目测基本都是公司组团报销来参加的；今年的场地在上海南站附近，位置尚好，但估计是票超卖太多了，好多人被迫站在场外；对我来说最有价值的内容还是下午的工作坊（单独买票30一张），不过工作坊部分的笔记还没有做出来，目前只有零散的一些上午场笔记，&lt;a href=&#39;http://qiniu.zifeixu.com/%E6%90%BA%E7%A8%8BUED%E5%A4%A7%E4%BC%9A%E7%AC%94%E8%AE%B0.JPG&#39; target=_blank&gt;笔记在此&lt;/a&gt;。&lt;/p&gt;&lt;/blockquote&gt;
+  &lt;p&gt;参加过 UCDChina上海的好几次活动，规模一直很精致（控制在几十人），场地选在沪江网总部（张江），这一次是大众点评组团来分享的，感兴趣的可以看回放（暂无笔记）。&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4&gt;TEDxCaohejing：体验者&lt;/h4&gt;
+&lt;h4 id=&quot;ued&quot;&gt;携程UED产品与设计大会：数据时代的产品与设计&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;时间：12月20日&lt;/li&gt;
-&lt;li&gt;活动介绍：&lt;a href=&#39;http://tedx1220-tcwechatshare.eventdove.com/@TEDNews&#39; target=_blank&gt;链接在此&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;视频回放：等待主办方放出后更新&lt;/li&gt;
+  &lt;li&gt;时间：12月19日&lt;/li&gt;
+  &lt;li&gt;活动介绍：&amp;lt;a href=’http://uedsummit.ctrip.com/ued2015/’ target=_blank&amp;gt;链接在此&amp;lt;/a&amp;gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;携程的这个讲座已经是第三届，可以说一年不如一年，且票价两百多稍贵，目测基本都是公司组团报销来参加的；今年的场地在上海南站附近，位置尚好，但估计是票超卖太多了，好多人被迫站在场外；对我来说最有价值的内容还是下午的工作坊（单独买票30一张），不过工作坊部分的笔记还没有做出来，目前只有零散的一些上午场笔记，&amp;lt;a href=’http://qiniu.zifeixu.com/%E6%90%BA%E7%A8%8BUED%E5%A4%A7%E4%BC%9A%E7%AC%94%E8%AE%B0.JPG’ target=_blank&amp;gt;笔记在此&amp;lt;/a&amp;gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;blockquote&gt;&lt;p&gt;用户体验做得最好的一场讲座，嘉宾分享质量也不错，特别是最后压轴的江南大学设计学院院长 辛向阳老师，分享的内容发人深省，以至于我现在都还只理解很少很少的部分，不敢妄做笔记；等到视频出来了，强烈建议做设计的同学去看看；目前只有前面一些分享的简单笔记，&lt;a href=&#39;http://qiniu.zifeixu.com/TED%E7%AC%94%E8%AE%B0.jpg&#39; target=_blank&gt;笔记在此&lt;/a&gt;。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h4&gt;优设2015年度线下分享：寒冬到来，设计师生存指南&lt;/h4&gt;
+&lt;h4 id=&quot;tedxcaohejing&quot;&gt;TEDxCaohejing：体验者&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;时间：12月27日&lt;/li&gt;
-&lt;li&gt;活动介绍：&lt;a href=&#39;http://detail.koudaitong.com/show/goods?alias=1y7n3x0pna7px&#39; target=_blank&gt;链接在此&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;视频回放：&lt;a href=&#39;http://e.vhall.com/962725263&#39; target=_blank&gt;链接在此&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;时间：12月20日&lt;/li&gt;
+  &lt;li&gt;活动介绍：&amp;lt;a href=’http://tedx1220-tcwechatshare.eventdove.com/@TEDNews’ target=_blank&amp;gt;链接在此&amp;lt;/a&amp;gt;&lt;/li&gt;
+  &lt;li&gt;视频回放：等待主办方放出后更新&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;用户体验做得最好的一场讲座，嘉宾分享质量也不错，特别是最后压轴的江南大学设计学院院长 辛向阳老师，分享的内容发人深省，以至于我现在都还只理解很少很少的部分，不敢妄做笔记；等到视频出来了，强烈建议做设计的同学去看看；目前只有前面一些分享的简单笔记，&amp;lt;a href=’http://qiniu.zifeixu.com/TED%E7%AC%94%E8%AE%B0.jpg’ target=_blank&amp;gt;笔记在此&amp;lt;/a&amp;gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;blockquote&gt;&lt;p&gt;优设网的这场活动在组织安排上槽点确实很多：场地很远很偏僻；引导入场时错误百出（没有引导领取礼品，还有我朋友早到了据说在场外寒风中排队半小时）；送的礼物中没有水；超过七百人的场地，导致只有最前面的童鞋能看清楚 PPT（只有一块大屏幕）；现场组建的微信抽奖群很多人不能加入（微信群限制500人，而到场700+）......&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;不过好在其中几位分享嘉宾的内容很不错，而且还在微信群领红包拿到了书，也算是蛮有收获的；这一场暂时无笔记，不过有回放地址，感兴趣的可以看看。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h4 id=&quot;section-4&quot;&gt;优设2015年度线下分享：寒冬到来，设计师生存指南&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;时间：12月27日&lt;/li&gt;
+  &lt;li&gt;活动介绍：&amp;lt;a href=’http://detail.koudaitong.com/show/goods?alias=1y7n3x0pna7px’ target=_blank&amp;gt;链接在此&amp;lt;/a&amp;gt;&lt;/li&gt;
+  &lt;li&gt;视频回放：&amp;lt;a href=’http://e.vhall.com/962725263’ target=_blank&amp;gt;链接在此&amp;lt;/a&amp;gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;优设网的这场活动在组织安排上槽点确实很多：场地很远很偏僻；引导入场时错误百出（没有引导领取礼品，还有我朋友早到了据说在场外寒风中排队半小时）；送的礼物中没有水；超过七百人的场地，导致只有最前面的童鞋能看清楚 PPT（只有一块大屏幕）；现场组建的微信抽奖群很多人不能加入（微信群限制500人，而到场700+）……&lt;/p&gt;
+
+  &lt;p&gt;不过好在其中几位分享嘉宾的内容很不错，而且还在微信群领红包拿到了书，也算是蛮有收获的；这一场暂时无笔记，不过有回放地址，感兴趣的可以看看。&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;ps：最近我们团队内部也在组织小规模的分享学习，关于这方面你有什么好的分享或建议，欢迎留言告知，谢谢!&lt;/p&gt;
 </description>
@@ -774,97 +812,109 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 
 &lt;p&gt;先说说最近在做的一个后台系统，这个产品是公司内部使用，本以为蛮简单的一个东西，结果也挖出了好几个坑，最后的结果就是开发出来的产品跟设计稿的差距很大，事后总结问题还是出在设计与开发的沟通上。&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;By the way，如果问为什么开发要按照设计稿去做？肯定是因为你的产品思路清晰，你的设计逻辑合理，你的业务场景让大家了解并认可，以这些为前提，你才能让工程师按照你的设计稿去设计和开发；这是一个大前提，这里就不细讲了，主要还是说说沟通和协作的过程。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;By the way，如果问为什么开发要按照设计稿去做？肯定是因为你的产品思路清晰，你的设计逻辑合理，你的业务场景让大家了解并认可，以这些为前提，你才能让工程师按照你的设计稿去设计和开发；这是一个大前提，这里就不细讲了，主要还是说说沟通和协作的过程。&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;下面开始复盘，直接说一下遇到的问题和目前能想到的解决思路。&lt;/p&gt;
 
-&lt;h3&gt;交互与开发的问题&lt;/h3&gt;
+&lt;h3 id=&quot;section&quot;&gt;交互与开发的问题&lt;/h3&gt;
 
 &lt;p&gt;1、部分功能逻辑因为在「当面沟通的时候已经达成一致」，所以没有在交互上很清楚的写出来，最后开发没有按照「已达成一致」的逻辑去实现；&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;解决方向：&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;解决方向：&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;在面对面沟通结束后，发一封确认邮件给所有参与人，内容是&lt;strong&gt;本次沟通所达成一致的内容&lt;/strong&gt;和&lt;strong&gt;有异议的内容&lt;/strong&gt;汇总；&lt;/li&gt;
-&lt;li&gt;在交互文档上，把已经达成一致的逻辑清晰的写出来（PRD上也要保持一致）；&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;ul&gt;
+    &lt;li&gt;在面对面沟通结束后，发一封确认邮件给所有参与人，内容是&lt;strong&gt;本次沟通所达成一致的内容&lt;/strong&gt;和&lt;strong&gt;有异议的内容&lt;/strong&gt;汇总；&lt;/li&gt;
+    &lt;li&gt;在交互文档上，把已经达成一致的逻辑清晰的写出来（PRD上也要保持一致）；&lt;/li&gt;
+  &lt;/ul&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;2、部分功能在交互上已经写得很清楚，但最后的产品并没有按此交互去开发，对此开发说「没有在当面沟通的时候说出来」；&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;解决方向：&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;解决方向：&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;与开发沟通时，多次核实已经达成一致的地方，并告知已在交互文档上详尽的标注；&lt;/li&gt;
-&lt;li&gt;在技术评审（开发评审交互）的时候，尽量把所有的交互细节都说一遍，特别是容易出错或理解有误的地方；&lt;/li&gt;
-&lt;li&gt;在沟通已全部达成一致，且交互细节全部标注之后，要让开发有时间好好看看交互文档，有任何问题直接当面沟通，一定要保持交互跟开发的同步（即使因技术原因改动逻辑或交互，也要及时修改文档）&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;ul&gt;
+    &lt;li&gt;与开发沟通时，多次核实已经达成一致的地方，并告知已在交互文档上详尽的标注；&lt;/li&gt;
+    &lt;li&gt;在技术评审（开发评审交互）的时候，尽量把所有的交互细节都说一遍，特别是容易出错或理解有误的地方；&lt;/li&gt;
+    &lt;li&gt;在沟通已全部达成一致，且交互细节全部标注之后，要让开发有时间好好看看交互文档，有任何问题直接当面沟通，一定要保持交互跟开发的同步（即使因技术原因改动逻辑或交互，也要及时修改文档）&lt;/li&gt;
+  &lt;/ul&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;3、部分在其他页面已经存在的交互，没有做标注说明，最后产品出现了跟其他页面逻辑不一致的地方；&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;解决方向：在交互文档上，所有细节都要详尽清楚的标注，特别注意已经存在的功能，逻辑未更改的地方可以不标注，但最好在文档中注明，例如：未标注的交互保持原有逻辑不变等（如果之前的开发换人了，更要注明）&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;解决方向：在交互文档上，所有细节都要详尽清楚的标注，特别注意已经存在的功能，逻辑未更改的地方可以不标注，但最好在文档中注明，例如：未标注的交互保持原有逻辑不变等（如果之前的开发换人了，更要注明）&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;hr /&gt;
 
-&lt;h3&gt;交互与视觉的问题&lt;/h3&gt;
+&lt;h3 id=&quot;section-1&quot;&gt;交互与视觉的问题&lt;/h3&gt;
 
 &lt;p&gt;1、 最终的视觉稿上，存在与交互文档不一致的逻辑&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;解决方向：&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;解决方向：&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;存在逻辑不一致的地方，一定程度上说明视觉没有完全理解产品的交互逻辑：可能是自己的交互文档不够清晰存在歧义，也可能是视觉设计的时候发现了交互点遗漏的地方，没有告诉交互直接按照自己的逻辑去设计了…这些都需要交互跟视觉多沟通，然后再有交互去完善优化文档；&lt;/li&gt;
-&lt;li&gt;为避免大意而出现的问题，视觉设计完成后应该多自我审查，没问题后再拿给交互，交互也要 Review 几遍，力保消灭粗心大意的错误；&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;ul&gt;
+    &lt;li&gt;存在逻辑不一致的地方，一定程度上说明视觉没有完全理解产品的交互逻辑：可能是自己的交互文档不够清晰存在歧义，也可能是视觉设计的时候发现了交互点遗漏的地方，没有告诉交互直接按照自己的逻辑去设计了…这些都需要交互跟视觉多沟通，然后再有交互去完善优化文档；&lt;/li&gt;
+    &lt;li&gt;为避免大意而出现的问题，视觉设计完成后应该多自我审查，没问题后再拿给交互，交互也要 Review 几遍，力保消灭粗心大意的错误；&lt;/li&gt;
+  &lt;/ul&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;2、 视觉稿不完整，缺少了 Modal 对话框的页面&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;解决方向：&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;解决方向：&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;这次的视觉稿没有 Modal 对话框的样式，是因为交互认为这是前端框架里默认的组件样式（公司其他后台网站是有的），所以叫视觉设计师不用出这个样式......但没想到最后开发出来用的却是浏览器自己的控件（又丑又难用.T_T），解决的方法是：&lt;strong&gt;全部细节都出视觉稿，不抱一丝假设&lt;/strong&gt;！不过要跟开发多沟通，如果已有组件样式的，找前端索要样式后放在视觉稿里即可（可以不用标注）。&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;ul&gt;
+    &lt;li&gt;这次的视觉稿没有 Modal 对话框的样式，是因为交互认为这是前端框架里默认的组件样式（公司其他后台网站是有的），所以叫视觉设计师不用出这个样式……但没想到最后开发出来用的却是浏览器自己的控件（又丑又难用.T_T），解决的方法是：&lt;strong&gt;全部细节都出视觉稿，不抱一丝假设&lt;/strong&gt;！不过要跟开发多沟通，如果已有组件样式的，找前端索要样式后放在视觉稿里即可（可以不用标注）。&lt;/li&gt;
+  &lt;/ul&gt;
 &lt;/blockquote&gt;
 
 &lt;hr /&gt;
 
-&lt;h3&gt;视觉与开发的问题&lt;/h3&gt;
+&lt;h3 id=&quot;section-2&quot;&gt;视觉与开发的问题&lt;/h3&gt;
 
 &lt;p&gt;1、 为了标注方便，设计师利用插件直接对源文件导出了 spec 页面，上面可以自己查看所有的样式属性和细节（需要自己去点击），但最后开发出来的产品在细节上几乎都没有达到视觉稿的效果；&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;解决方向：&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;解决方向：&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;一张白纸上画一个黑点，对方很容易明白你画了一个黑点；但如果你把这张白纸全涂成了黑色，对方可能会认为这本来就是一张黑色的纸，而你什么都没有画（一个例子）......我们以前的标注是把页面所有细节属性都标出来给到对方（Markman），现在 Sketch 有了插件 Measure，可以一键导出，开发需要看哪里的属性点击即可查看；但这样会不会造成例子中的情况呢？这是我们针对标注这件事情应该去思考的，现在能想到的就是要跟开发多多沟通，他们需要什么样的标注我们都可以输出，关键的问题还是我们的一致目标一定得是：&lt;strong&gt;按照设计稿100%进行还原！&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;ul&gt;
+    &lt;li&gt;一张白纸上画一个黑点，对方很容易明白你画了一个黑点；但如果你把这张白纸全涂成了黑色，对方可能会认为这本来就是一张黑色的纸，而你什么都没有画（一个例子）……我们以前的标注是把页面所有细节属性都标出来给到对方（Markman），现在 Sketch 有了插件 Measure，可以一键导出，开发需要看哪里的属性点击即可查看；但这样会不会造成例子中的情况呢？这是我们针对标注这件事情应该去思考的，现在能想到的就是要跟开发多多沟通，他们需要什么样的标注我们都可以输出，关键的问题还是我们的一致目标一定得是：&lt;strong&gt;按照设计稿100%进行还原！&lt;/strong&gt;&lt;/li&gt;
+  &lt;/ul&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;2、 设计师没有跟前端验收页面，导致成品与视觉稿相差甚远；&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;解决方向：&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;解决方向：&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;如果因为没有安排「视觉验收」环节，我们就不去验收、不去要求开发修改，那么只能说明我们的主动性不够强烈；设计师要有主动性，如果视觉没有主动去验收，那么交互应该&lt;strong&gt;更主动的&lt;/strong&gt;拉上视觉去找开发一起验收和调整细节；&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;ul&gt;
+    &lt;li&gt;如果因为没有安排「视觉验收」环节，我们就不去验收、不去要求开发修改，那么只能说明我们的主动性不够强烈；设计师要有主动性，如果视觉没有主动去验收，那么交互应该&lt;strong&gt;更主动的&lt;/strong&gt;拉上视觉去找开发一起验收和调整细节；&lt;/li&gt;
+  &lt;/ul&gt;
 &lt;/blockquote&gt;
 
 &lt;hr /&gt;
 
-&lt;h3&gt;其他问题&lt;/h3&gt;
+&lt;h3 id=&quot;section-3&quot;&gt;其他问题&lt;/h3&gt;
 
-&lt;p&gt;因为是内部自己人使用的产品，所以大家都没有太注重视觉，以致于项目经理在立项的时候没有安排「视觉设计」和「视觉验收」的环节，间接导致了后续开发与设计师间的诸多问题...&lt;/p&gt;
+&lt;p&gt;因为是内部自己人使用的产品，所以大家都没有太注重视觉，以致于项目经理在立项的时候没有安排「视觉设计」和「视觉验收」的环节，间接导致了后续开发与设计师间的诸多问题…&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;解决方向：这个产品的视觉重要与否，具体可从业务和使用场景来给出定义，但是作为设计师自己，是要力争拥有「自己经手的每一个产品都要做到很棒」这样的觉悟才行！所以没有排期要去争取排期，没有验收要去主动验收，不管有没有PM都应该主动承担起 owner 的角色。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;解决方向：这个产品的视觉重要与否，具体可从业务和使用场景来给出定义，但是作为设计师自己，是要力争拥有「自己经手的每一个产品都要做到很棒」这样的觉悟才行！所以没有排期要去争取排期，没有验收要去主动验收，不管有没有PM都应该主动承担起 owner 的角色。&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
 			   <pubDate>Mon, 21 Dec 2015 00:00:00 +0800</pubDate>
 			   <link>http://zifeixu.com/digging-pit-guide/</link>
@@ -877,97 +927,96 @@ Kuvva wallpapers | ¥30&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h3&gt;★每月六部电影&lt;/h3&gt;
+&lt;h3 id=&quot;section&quot;&gt;★每月六部电影&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/2015%E7%AC%AC%E4%B8%80%E5%AD%A3%E5%BA%A6%E7%94%B5%E5%BD%B1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;上面是我最近三个月看的电影，简单小结一下：&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;《万能钥匙 The Skeleton Key (2005)》&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;《万能钥匙 The Skeleton Key (2005)》&lt;/strong&gt;&lt;br /&gt;
 编剧强大，往往是在意料之外，却又在情理之中&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;《霍比特人3：五军之战 The Hobbit: The Battle of the Five Armies (2014)》&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;《霍比特人3：五军之战 The Hobbit: The Battle of the Five Armies (2014)》&lt;/strong&gt;&lt;br /&gt;
 魔戒三部曲 + 霍比特人三部曲，强大的中土世界终于告一段落，有时间再在大电视上全部重新来一遍。强大的特效加上不错的剧情，这个架空的世界奇幻给我们带来了不俗的观影体验！&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;《地球上的星星 Taare Zameen Par (2007)》&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;《地球上的星星 Taare Zameen Par (2007)》&lt;/strong&gt;&lt;br /&gt;
 我看到了三傻的影子，看到了天空的星星，虽然远远的看起来，有的很亮有的很晦暗，但我们都知道，那些看起来暗淡的才是真正巨大的！&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;《银翼杀手 Blade Runner (1982)》&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;《银翼杀手 Blade Runner (1982)》&lt;/strong&gt;&lt;br /&gt;
 根据 菲利普迪克 Philip Kindred Dick 的小说《仿生人会梦见电子羊吗？》改编而成的电影，关于pkd这个人，了解一点是赛博朋克的代表人物，其科幻小说著作多次被改编电影，有机会把他小说改编的电影都看一遍&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;《老无所依 No Country for Old Men (2007)》&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;《老无所依 No Country for Old Men (2007)》&lt;/strong&gt;&lt;br /&gt;
 说实话，真心没怎么看懂。还好看到豆瓣评论里也有人这么说，我终于也敢放心的说出来啦！哈哈&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;《V字仇杀队 V for Vendetta (2005)》&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;《V字仇杀队 V for Vendetta (2005)》&lt;/strong&gt;&lt;br /&gt;
 有人说：终于明白为什么新浪认证用户的符号是“V”，这是多么高明的隐喻，新浪真是用心良苦啊有木有？&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;《搏击俱乐部 Fight Club (1999)》&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;《搏击俱乐部 Fight Club (1999)》&lt;/strong&gt;&lt;br /&gt;
 不知道怎么评论，第一次看的时候有点惊讶于结局；第二次看的时候貌似也没有太多的共鸣与震撼。或许跟个人的经历有关吧，看了别人的评论，感叹自己的人生有点平淡啊哈哈哈&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;《辩护人 변호인 (2013)》&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;《辩护人 변호인 (2013)》&lt;/strong&gt;&lt;br /&gt;
 励志鸡汤得一塌糊涂，但又正义接地气的一本正经。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;《杀死比尔2 Kill Bill: Vol. 2 (2004)》&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;《杀死比尔2 Kill Bill: Vol. 2 (2004)》&lt;/strong&gt;&lt;br /&gt;
 看第一部后只觉果然是暴力美学，全片几乎都是血腥的杀戮。看完第二部，把故事整个串联起来了，才感受到强烈的感情脉络。爱与恨的复仇，真的在最后让人跟着哭跟着笑&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;《独家试爱》《十分爱》《我的最爱》&lt;/strong&gt;&lt;br/&gt;
-这是香港导演叶念琛的残爱三部曲，前面看着还不错，就是有些情节有点像是故意加进来增加戏剧冲突或关联的一般，衔接的不是特别自然。在国产片里面是非常不错的了。转一段网友在豆列里推荐的话：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;《独家试爱》《十分爱》《我的最爱》&lt;/strong&gt;&lt;br /&gt;
+这是香港导演叶念琛的残爱三部曲，前面看着还不错，就是有些情节有点像是故意加进来增加戏剧冲突或关联的一般，衔接的不是特别自然。在国产片里面是非常不错的了。转一段网友在豆列里推荐的话：&lt;br /&gt;
+&amp;gt; 这个害人不浅的新生代导演，&lt;br /&gt;
+&amp;gt; 一部摧毁了我对恋爱的信仰，&lt;br /&gt;
+&amp;gt; 一部摧毁了我对婚姻的信仰，&lt;br /&gt;
+&amp;gt; 最后一部终结曲则登峰造极，&lt;br /&gt;
+&amp;gt; 摧毁了我对友情在内的所有情感的信仰！&lt;br /&gt;
+&amp;gt; 不是我的信仰不堪一击，&lt;br /&gt;
+&amp;gt; 实在是导演的冷眼看世界实在太过残酷。。。&lt;br /&gt;
+&amp;gt; 这次，在体味残爱的同时居然外加惊恐一阵！&lt;br /&gt;
+&amp;gt; 姓叶的，算你狠！！！&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;这个害人不浅的新生代导演，&lt;br/&gt;
-一部摧毁了我对恋爱的信仰，&lt;br/&gt;
-一部摧毁了我对婚姻的信仰，&lt;br/&gt;
-最后一部终结曲则登峰造极，&lt;br/&gt;
-摧毁了我对友情在内的所有情感的信仰！&lt;br/&gt;
-不是我的信仰不堪一击，&lt;br/&gt;
-实在是导演的冷眼看世界实在太过残酷。。。&lt;br/&gt;
-这次，在体味残爱的同时居然外加惊恐一阵！&lt;br/&gt;
-姓叶的，算你狠！！！&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;《模仿游戏 The Imitation Game (2014)》&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;《模仿游戏 The Imitation Game (2014)》&lt;/strong&gt;&lt;br /&gt;
 又是一部不错的人物传记片，当然，如果是想要真实的了解图灵其人其事，还是推荐看书的方式，知乎上有很多讨论这部片子跟真实情况有出入的地方，不过电影嘛就不要太较真啦。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;《超能陆战队 Big Hero 6 (2014)》&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;《超能陆战队 Big Hero 6 (2014)》&lt;/strong&gt;&lt;br /&gt;
 现在动画越来越有水准了，难道是导演编剧们已经吃定观众的喜好啦？ 哈哈，不过这动画真的很棒！&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;《飓风营救3 Taken 3 (2014)》&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;《飓风营救3 Taken 3 (2014)》&lt;/strong&gt;&lt;br /&gt;
 剧情俗套，演技不错，小强不死，必大圆满！&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;《焦点 Focus (2015)》&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;《焦点 Focus (2015)》&lt;/strong&gt;&lt;br /&gt;
 很好看啊，为什么分那么低呢？嗯，学不到的手法，是嫉妒吧。估计是我看此类片子较少的缘故，我感觉片中的高潮挺带劲的。&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h3&gt;★每月一部小说（漫画）&lt;/h3&gt;
+&lt;h3 id=&quot;section-1&quot;&gt;★每月一部小说（漫画）&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/2015%E7%AC%AC%E4%B8%80%E5%AD%A3%E5%BA%A6%E4%B9%A6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;最近看书很少，看完的就更少，只有这两本&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;《无人生还（阿加莎·克里斯蒂作品）》&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;《无人生还（阿加莎·克里斯蒂作品）》&lt;/strong&gt;&lt;br /&gt;
 多看上买的第一本悬疑小说，评分很高，不过可能看书时心境不好，看完没太大感觉。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;《寄生獸》&lt;/strong&gt;&lt;br/&gt;
-这是一套日本漫画，作者岩明均在1990年到1995年创作完成，据说当年版权卖给了好莱坞，13年因好莱坞版权届满，詹姆斯·卡梅隆不再拥有版权，日本人立马拍成动画拍成电影，你可以想象一下有多经典。&lt;br/&gt;
-动画更新太慢，忍不住提前看完了漫画，还是有点小遗憾，很多场景在动画里看效果会更棒。&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;《寄生獸》&lt;/strong&gt;&lt;br /&gt;
+这是一套日本漫画，作者岩明均在1990年到1995年创作完成，据说当年版权卖给了好莱坞，13年因好莱坞版权届满，詹姆斯·卡梅隆不再拥有版权，日本人立马拍成动画拍成电影，你可以想象一下有多经典。&lt;br /&gt;
+动画更新太慢，忍不住提前看完了漫画，还是有点小遗憾，很多场景在动画里看效果会更棒。&lt;br /&gt;
 作者从小场景故事里升华出大智慧大道理，连作者自己都说成为了自己面前一堵很难逾越的高墙！&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h3&gt;★每月一部游戏&lt;/h3&gt;
+&lt;h3 id=&quot;section-2&quot;&gt;★每月一部游戏&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://qiniu.zifeixu.com/2015%E7%AC%AC%E4%B8%80%E5%AD%A3%E5%BA%A6%E6%B8%B8%E6%88%8F.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;最近都有尝试一些好玩的游戏，但是坚持到通关的很少。&lt;br/&gt;
-不过玩游戏嘛心态很重要，不要太沉迷，也不要纠结一定要通关，在这一刻让我们会心一笑就很棒了。&lt;br/&gt;
+&lt;p&gt;最近都有尝试一些好玩的游戏，但是坚持到通关的很少。&lt;br /&gt;
+不过玩游戏嘛心态很重要，不要太沉迷，也不要纠结一定要通关，在这一刻让我们会心一笑就很棒了。&lt;br /&gt;
 这一次总结的是已通关游戏，下一次开始推荐最近玩过不错的游戏。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;《纪念碑谷》&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;《纪念碑谷》&lt;/strong&gt;&lt;br /&gt;
 名气很大的视觉系游戏，画风音乐都很赞，关卡设置难度也合适，很幸运的把原作、被遗忘的海岸 和 IDA’S(RED) DREAM 都通关了。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;《里奥的财富》&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;《里奥的财富》&lt;/strong&gt;&lt;br /&gt;
 画风很赞，毛茸茸的主角看着也很有爱。每一幕的开始像电影片段一样，有不错剧情的动作类游戏。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;《FRAMED》&lt;/strong&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;《FRAMED》&lt;/strong&gt;&lt;br /&gt;
 像连环画一样可以改变画面的顺序，而不同的顺序引发不同的结果，玩法很新颖，也能在很短时间内通关的游戏。&lt;/p&gt;
 
 &lt;hr /&gt;

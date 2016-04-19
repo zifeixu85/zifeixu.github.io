@@ -4,7 +4,7 @@ title: 建立自己的原则 - 为他人喝彩
 category: life
 description: <img src="http://qiniu.zifeixu.com/for-others-cheer2.png"> <br> 其实不是我们没有原则，我相信很多人都有自己的主观喜好，比如有的人喜欢颜值，有的人喜欢才华，这些都是原则。关键就是我们没有把自己的原则记下来，以致于到了真正需要它们的时候要么是忘了，要么是被环境或他人所左右了。
 --- 
-![](http://qiniu.zifeixu.com/for-others-cheer.png)
+![](http://qiniu.zifeixu.com/for-others-cheer2.png)
 
 我们常说「这个人是很有原则的人」，是指这个人做某一类事或某一个判断的时候，是有一定的准则或规律的，有原则并不一定都是好事，但它让我们在难以抉择的时候能有一个清晰的方向，让我们在被当前环境“蒙蔽”的时候还能够坚持心中的判断，所以很多时候，我们更喜欢带有一些原则的人。
   
